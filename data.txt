@@ -1,0 +1,9 @@
+systemctl status mysql.service
+CREATE USER 'admin'@'localhost' IDENTIFIED BY 'per4mance';
+GRANT ALL PRIVILEGES ON *.* TO 'admin'@'localhost' WITH GRANT OPTION;
+
+
+CREATE DATABASE mydatabase;
+Username (leave blank to use 'root'): qss_dhananjai8
+Email address: chitranshdhananjai1995@gmail.com
+
