@@ -27,4 +27,4 @@ urlpatterns = [
     path('index/',views.index,name="index"),
     path('landing/',views.projectList,name="landing"),
     url(r'^products/(?P<product_id>\d+)/$', views.projectDetail, name='product')
-] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT) 
