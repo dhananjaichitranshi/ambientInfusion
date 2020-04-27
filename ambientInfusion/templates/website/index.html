@@ -67,6 +67,18 @@
                 <!-- <li><a href="#process-section" class="nav-link">Process</a></li> -->
                 <li><a href="#testimonials-section" class="nav-link">Testimonials</a></li>
                 <!-- <li><a href="#services-section" class="nav-link">Services</a></li> -->
+                <li class="nav-link">
+                  <div class="dropdown">
+                    <button type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown" style="background-color: #1a6f2e;">
+                      Category
+                    </button>
+                    <div class="dropdown-menu">
+                      {% for category in qs %}
+                        <a class="dropdown-item" href="{% url 'landing' category.id %}">{{category.name}}</a>
+                      {% endfor %}
+                    </div>
+                  </div>
+                </li>
               </ul>
             </nav>
           </div>
@@ -194,7 +206,7 @@
               blanditiis consequuntur sunt nisi.</p>
           </div>
         </div>
-        <a href="{% url 'landing' %}"><button type="button" class="btn btn-primary"
+        <a href="{% url 'landing' 0 %}"><button type="button" class="btn btn-primary"
             style="background-color: #1a6f2e !important;">Read More</button></a>
       </div>
     </div>

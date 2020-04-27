@@ -28,7 +28,7 @@ SECRET_KEY = 'a1pon=0d_87r%%1_0s)9wk7zla3(z4@^olszu$jt94891w$+l3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['3.7.46.119','ambientinfusion.com','www.ambientinfusion.com']
+ALLOWED_HOSTS = ['3.7.46.119','ambientinfusion.com','www.ambientinfusion.com','127.0.0.1']
 
 
 # Application definition

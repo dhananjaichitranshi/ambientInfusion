@@ -85,9 +85,12 @@
                 </div>
             </div>
             <div class="row">
+                {% if qs_len %}
+                    <h3></h3>
+                {% else %}
+                    <h3>Still the products for this category are not added.</h3>
+                {% endif %}
                 {% for product in qs %}
-                <!-- <option name="{{product.name}}">{{product.name}}</option> {{product.label_name}} -->
-
                 <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
                     <div class="process bg-white rounded">
                         <div>
