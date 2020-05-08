@@ -80,7 +80,7 @@ WSGI_APPLICATION = 'ambientInfusion.wsgi.application'
 DATABASES = {
    'default': {
        'ENGINE': 'django.db.backends.mysql',
-       'NAME': 'mydatabase',
+       'NAME': 'ambientInfusion',
        'USER': 'admin',
        'PASSWORD': 'per4mance',
        'PORT': '3306'

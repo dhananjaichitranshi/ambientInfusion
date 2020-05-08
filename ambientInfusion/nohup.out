@@ -641,3 +641,2064 @@ Not Found: /favicon.ico
 [26/Apr/2020 14:52:07] "GET /static/css/aos.css.map HTTP/1.1" 404 1679
 [26/Apr/2020 14:52:07] "GET /static/css/bootstrap.min.css.map HTTP/1.1" 200 87088
 [26/Apr/2020 14:52:12] "GET /index/ HTTP/1.1" 200 26149
+[26/Apr/2020 15:05:35] "GET /index/ HTTP/1.1" 200 26149
+[26/Apr/2020 16:41:29] "GET /index/ HTTP/1.1" 200 26149
+[26/Apr/2020 16:41:29] "GET /static/fonts/icomoon/style.css HTTP/1.1" 200 79820
+[26/Apr/2020 16:41:29] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 177055
+[26/Apr/2020 16:41:29] "GET /static/css/jquery-ui.css HTTP/1.1" 200 21738
+[26/Apr/2020 16:41:29] "GET /static/css/owl.carousel.min.css HTTP/1.1" 200 2936
+[26/Apr/2020 16:41:29] "GET /static/css/owl.theme.default.min.css HTTP/1.1" 200 965
+[26/Apr/2020 16:41:29] "GET /static/css/jquery.fancybox.min.css HTTP/1.1" 200 12795
+[26/Apr/2020 16:41:29] "GET /static/css/bootstrap-datepicker.css HTTP/1.1" 200 17144
+[26/Apr/2020 16:41:30] "GET /static/fonts/flaticon/font/flaticon.css HTTP/1.1" 200 1330
+[26/Apr/2020 16:41:30] "GET /static/css/aos.css HTTP/1.1" 200 25983
+[26/Apr/2020 16:41:30] "GET /static/css/style.css HTTP/1.1" 200 36305
+[26/Apr/2020 16:41:30] "GET /static/js/jquery-ui.js HTTP/1.1" 200 45799
+[26/Apr/2020 16:41:30] "GET /static/js/jquery-3.3.1.min.js HTTP/1.1" 200 86926
+[26/Apr/2020 16:41:30] "GET /static/js/popper.min.js HTTP/1.1" 200 20336
+[26/Apr/2020 16:41:30] "GET /static/images/logo.png HTTP/1.1" 200 5522
+[26/Apr/2020 16:41:30] "GET /static/fonts/icomoon/fonts/icomoon.ttf?10si43 HTTP/1.1" 200 307168
+[26/Apr/2020 16:41:30] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 58072
+[26/Apr/2020 16:41:30] "GET /static/js/owl.carousel.min.js HTTP/1.1" 200 42766
+[26/Apr/2020 16:41:31] "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 200 8111
+[26/Apr/2020 16:41:31] "GET /static/js/aos.js HTTP/1.1" 200 14244
+[26/Apr/2020 16:41:31] "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 200 9029
+[26/Apr/2020 16:41:31] "GET /static/js/jquery.fancybox.min.js HTTP/1.1" 200 68196
+[26/Apr/2020 16:41:31] "GET /static/js/jquery.animateNumber.min.js HTTP/1.1" 200 1391
+[26/Apr/2020 16:41:31] "GET /static/js/jquery.sticky.js HTTP/1.1" 200 10084
+[26/Apr/2020 16:41:31] "GET /static/js/main.js HTTP/1.1" 200 8603
+[26/Apr/2020 16:41:31] "GET /static/images/img_5.jpg HTTP/1.1" 200 32781
+[26/Apr/2020 16:41:31] "GET /static/images/img_7.jpg HTTP/1.1" 200 99392
+[26/Apr/2020 16:41:31] "GET /static/images/img_8.jpg HTTP/1.1" 200 231834
+[26/Apr/2020 16:41:31] "GET /static/images/person_2.jpg HTTP/1.1" 200 285512
+[26/Apr/2020 16:41:32] "GET /static/images/person_3.jpg HTTP/1.1" 200 228890
+[26/Apr/2020 16:41:32] "GET /static/images/img_6.jpg HTTP/1.1" 200 481844
+[26/Apr/2020 16:41:32] "GET /static/images/person_4.jpg HTTP/1.1" 200 375097
+[26/Apr/2020 16:41:32] "GET /static/images/about_1.jpg HTTP/1.1" 200 120610
+Not Found: /favicon.ico
+[26/Apr/2020 16:41:32] "GET /favicon.ico HTTP/1.1" 404 2631
+Invalid HTTP_HOST header: 'ip.ws.126.net:443'. You may need to add 'ip.ws.126.net' to ALLOWED_HOSTS.
+[26/Apr/2020 22:58:59] "CONNECT ip.ws.126.net:443 HTTP/1.1" 400 59659
+[27/Apr/2020 02:30:17] "GET / HTTP/1.1" 200 26149
+Invalid HTTP_HOST header: 'ip.ws.126.net:443'. You may need to add 'ip.ws.126.net' to ALLOWED_HOSTS.
+[27/Apr/2020 06:59:59] "CONNECT ip.ws.126.net:443 HTTP/1.1" 400 59659
+[27/Apr/2020 08:06:51] code 400, message Bad request syntax ('\x00\x00\x00TZ\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x04\x010I\x00\x00\x00\x00\x80\x0b¨À\x00\x0c)t F\x07\x00tsXrcsXYs9\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00bbXcsXctst\x00\x00\x00\x00\x00\x00')
+[27/Apr/2020 08:06:51] "   TZ          0I    ¨À )t F tsXrcsXYs9                      bbXcsXctst      " 400 -
+[27/Apr/2020 08:06:52] "GET / HTTP/1.1" 200 26149
+[27/Apr/2020 08:10:10] "GET /index/ HTTP/1.1" 200 26149
+[27/Apr/2020 08:10:11] "GET /static/fonts/icomoon/style.css HTTP/1.1" 200 79820
+[27/Apr/2020 08:10:11] "GET /static/css/jquery-ui.css HTTP/1.1" 200 21738
+[27/Apr/2020 08:10:11] "GET /static/css/owl.carousel.min.css HTTP/1.1" 200 2936
+[27/Apr/2020 08:10:11] "GET /static/css/owl.theme.default.min.css HTTP/1.1" 200 965
+[27/Apr/2020 08:10:11] "GET /static/css/jquery.fancybox.min.css HTTP/1.1" 200 12795
+[27/Apr/2020 08:10:11] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 177055
+[27/Apr/2020 08:10:11] "GET /static/css/bootstrap-datepicker.css HTTP/1.1" 200 17144
+[27/Apr/2020 08:10:11] "GET /static/fonts/flaticon/font/flaticon.css HTTP/1.1" 200 1330
+[27/Apr/2020 08:10:11] "GET /static/css/aos.css HTTP/1.1" 200 25983
+[27/Apr/2020 08:10:11] "GET /static/css/style.css HTTP/1.1" 200 36305
+[27/Apr/2020 08:10:11] "GET /static/js/jquery-3.3.1.min.js HTTP/1.1" 200 86926
+[27/Apr/2020 08:10:11] "GET /static/js/jquery-ui.js HTTP/1.1" 200 45799
+[27/Apr/2020 08:10:11] "GET /static/js/popper.min.js HTTP/1.1" 200 20336
+[27/Apr/2020 08:10:11] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 58072
+[27/Apr/2020 08:10:11] "GET /static/js/owl.carousel.min.js HTTP/1.1" 200 42766
+[27/Apr/2020 08:10:11] "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 200 8111
+[27/Apr/2020 08:10:11] "GET /static/js/aos.js HTTP/1.1" 200 14244
+[27/Apr/2020 08:10:11] "GET /static/js/jquery.fancybox.min.js HTTP/1.1" 200 68196
+[27/Apr/2020 08:10:11] "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 200 9029
+[27/Apr/2020 08:10:11] "GET /static/js/jquery.animateNumber.min.js HTTP/1.1" 200 1391
+[27/Apr/2020 08:10:11] "GET /static/js/jquery.sticky.js HTTP/1.1" 200 10084
+[27/Apr/2020 08:10:11] "GET /static/js/main.js HTTP/1.1" 200 8603
+[27/Apr/2020 08:10:11] "GET /static/fonts/icomoon/fonts/icomoon.ttf?10si43 HTTP/1.1" 200 307168
+[27/Apr/2020 08:10:11] "GET /static/images/logo.png HTTP/1.1" 200 5522
+[27/Apr/2020 08:10:11] "GET /static/images/img_5.jpg HTTP/1.1" 200 32781
+[27/Apr/2020 08:10:11] "GET /static/images/img_7.jpg HTTP/1.1" 200 99392
+[27/Apr/2020 08:10:11] "GET /static/images/img_6.jpg HTTP/1.1" 200 481844
+[27/Apr/2020 08:10:11] "GET /static/images/img_8.jpg HTTP/1.1" 200 231834
+[27/Apr/2020 08:10:11] "GET /static/images/person_2.jpg HTTP/1.1" 200 285512
+[27/Apr/2020 08:10:12] "GET /static/images/about_1.jpg HTTP/1.1" 200 120610
+[27/Apr/2020 08:10:12] "GET /static/images/person_3.jpg HTTP/1.1" 200 228890
+[27/Apr/2020 08:10:12] "GET /static/images/person_4.jpg HTTP/1.1" 200 375097
+Not Found: /favicon.ico
+[27/Apr/2020 08:10:13] "GET /favicon.ico HTTP/1.1" 404 2622
+[27/Apr/2020 08:10:14] "GET /index/ HTTP/1.1" 200 26149
+[27/Apr/2020 08:10:14] "GET /static/fonts/icomoon/style.css HTTP/1.1" 200 79820
+[27/Apr/2020 08:10:14] "GET /static/css/jquery-ui.css HTTP/1.1" 200 21738
+[27/Apr/2020 08:10:14] "GET /static/css/owl.carousel.min.css HTTP/1.1" 200 2936
+[27/Apr/2020 08:10:14] "GET /static/css/owl.theme.default.min.css HTTP/1.1" 200 965
+[27/Apr/2020 08:10:14] "GET /static/css/jquery.fancybox.min.css HTTP/1.1" 200 12795
+[27/Apr/2020 08:10:14] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 177055
+[27/Apr/2020 08:10:14] "GET /static/css/bootstrap-datepicker.css HTTP/1.1" 200 17144
+[27/Apr/2020 08:10:14] "GET /static/css/aos.css HTTP/1.1" 200 25983
+[27/Apr/2020 08:10:14] "GET /static/fonts/flaticon/font/flaticon.css HTTP/1.1" 200 1330
+[27/Apr/2020 08:10:14] "GET /static/js/jquery-3.3.1.min.js HTTP/1.1" 200 86926
+[27/Apr/2020 08:10:14] "GET /static/css/style.css HTTP/1.1" 200 36305
+[27/Apr/2020 08:10:14] "GET /static/js/jquery-ui.js HTTP/1.1" 200 45799
+[27/Apr/2020 08:10:14] "GET /static/js/popper.min.js HTTP/1.1" 200 20336
+[27/Apr/2020 08:10:14] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 58072
+[27/Apr/2020 08:10:14] "GET /static/js/owl.carousel.min.js HTTP/1.1" 200 42766
+[27/Apr/2020 08:10:15] "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 200 8111
+[27/Apr/2020 08:10:15] "GET /static/js/aos.js HTTP/1.1" 200 14244
+[27/Apr/2020 08:10:15] "GET /static/js/jquery.fancybox.min.js HTTP/1.1" 200 68196
+[27/Apr/2020 08:10:15] "GET /static/fonts/icomoon/fonts/icomoon.ttf?10si43 HTTP/1.1" 200 307168
+[27/Apr/2020 08:10:15] "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 200 9029
+[27/Apr/2020 08:10:15] "GET /static/js/jquery.animateNumber.min.js HTTP/1.1" 200 1391
+[27/Apr/2020 08:10:15] "GET /static/js/jquery.sticky.js HTTP/1.1" 200 10084
+[27/Apr/2020 08:10:15] "GET /static/js/main.js HTTP/1.1" 200 8603
+[27/Apr/2020 08:10:15] "GET /static/images/logo.png HTTP/1.1" 200 5522
+[27/Apr/2020 08:10:15] "GET /static/images/img_5.jpg HTTP/1.1" 200 32781
+[27/Apr/2020 08:10:16] "GET /static/images/img_7.jpg HTTP/1.1" 200 99392
+[27/Apr/2020 08:10:16] "GET /static/images/img_8.jpg HTTP/1.1" 200 231834
+[27/Apr/2020 08:10:16] "GET /static/images/person_2.jpg HTTP/1.1" 200 285512
+[27/Apr/2020 08:10:16] "GET /static/images/person_3.jpg HTTP/1.1" 200 228890
+[27/Apr/2020 08:10:17] "GET /static/images/img_6.jpg HTTP/1.1" 200 481844
+[27/Apr/2020 08:10:17] "GET /static/images/about_1.jpg HTTP/1.1" 200 120610
+[27/Apr/2020 08:10:17] "GET /static/images/person_4.jpg HTTP/1.1" 200 375097
+[27/Apr/2020 08:10:18] "GET /index/ HTTP/1.1" 200 26149
+[27/Apr/2020 08:10:18] "GET /static/images/person_4.jpg HTTP/1.1" 200 375097
+Not Found: /favicon.ico
+[27/Apr/2020 08:10:19] "GET /favicon.ico HTTP/1.1" 404 2631
+[27/Apr/2020 08:10:24] "GET /landing/ HTTP/1.1" 200 9957
+[27/Apr/2020 08:10:24] "GET /media/dynamicImg/project/61pHXsALAOL._AC_UY218_ML3_.jpg HTTP/1.1" 200 3826
+[27/Apr/2020 08:10:24] "GET /media/dynamicImg/project/61PVIzk6ALL._SL1104_.jpg HTTP/1.1" 200 115395
+[27/Apr/2020 08:10:24] "GET /media/dynamicImg/project/24April.png HTTP/1.1" 200 139786
+[27/Apr/2020 10:02:27] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[27/Apr/2020 10:02:27] "  /*à     Cookie: mstshash=Administr" 400 -
+[27/Apr/2020 10:16:32] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[27/Apr/2020 10:16:32] "    c                           " 400 -
+[27/Apr/2020 11:38:37] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[27/Apr/2020 11:38:37] "  /*à     Cookie: mstshash=Administr" 400 -
+[27/Apr/2020 11:39:54] code 400, message Bad request syntax ('\x16\x03\x01\x00u\x01\x00\x00q\x03\x03\r)¤jÝ+r\x1cíY\x9f\x97`ÊMAU\x94\x15ùÈ\x1b\x80\x92È¦)\x04iÎÍ¡\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À')
+[27/Apr/2020 11:39:54] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+-------------- /var/www/ambientInfusion/ambientInfusion
+-------------- /var/www/ambientInfusion/ambientInfusion/templates
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 26, 2020 - 14:16:18
+Django version 2.0, using settings 'ambientInfusion.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+1
+2
+3
+3
+[27/Apr/2020 14:26:20] "GET /index/ HTTP/1.1" 200 27103
+[27/Apr/2020 14:26:30] "GET /index/ HTTP/1.1" 200 27103
+[27/Apr/2020 14:26:34] "GET /landing/2/ HTTP/1.1" 200 7875
+[27/Apr/2020 14:27:15] "GET /admin HTTP/1.1" 301 0
+[27/Apr/2020 14:27:16] "GET /admin/ HTTP/1.1" 302 0
+[27/Apr/2020 14:27:16] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1855
+[27/Apr/2020 14:27:16] "GET /static/admin/css/base.css HTTP/1.1" 200 16106
+[27/Apr/2020 14:27:16] "GET /static/admin/css/login.css HTTP/1.1" 200 1203
+[27/Apr/2020 14:27:16] "GET /static/admin/css/responsive.css HTTP/1.1" 200 17894
+[27/Apr/2020 14:27:16] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[27/Apr/2020 14:27:16] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[27/Apr/2020 14:27:16] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[27/Apr/2020 14:27:20] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1855
+[27/Apr/2020 14:27:35] "GET /index/ HTTP/1.1" 200 27103
+[27/Apr/2020 14:31:37] "GET /index/ HTTP/1.1" 200 27103
+[27/Apr/2020 14:31:37] "GET /static/css/jquery-ui.css HTTP/1.1" 200 21738
+[27/Apr/2020 14:31:37] "GET /static/css/owl.carousel.min.css HTTP/1.1" 200 2936
+[27/Apr/2020 14:31:37] "GET /static/fonts/icomoon/style.css HTTP/1.1" 200 79820
+[27/Apr/2020 14:31:37] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 177055
+[27/Apr/2020 14:31:37] "GET /static/css/owl.theme.default.min.css HTTP/1.1" 200 965
+[27/Apr/2020 14:31:37] "GET /static/css/jquery.fancybox.min.css HTTP/1.1" 200 12795
+[27/Apr/2020 14:31:37] "GET /static/css/bootstrap-datepicker.css HTTP/1.1" 200 17144
+[27/Apr/2020 14:31:37] "GET /static/fonts/flaticon/font/flaticon.css HTTP/1.1" 200 1330
+[27/Apr/2020 14:31:37] "GET /static/css/style.css HTTP/1.1" 200 36305
+[27/Apr/2020 14:31:37] "GET /static/css/aos.css HTTP/1.1" 200 25983
+[27/Apr/2020 14:31:37] "GET /static/js/jquery-ui.js HTTP/1.1" 200 45799
+[27/Apr/2020 14:31:37] "GET /static/js/jquery-3.3.1.min.js HTTP/1.1" 200 86926
+[27/Apr/2020 14:31:38] "GET /static/js/popper.min.js HTTP/1.1" 200 20336
+[27/Apr/2020 14:31:38] "GET /static/js/aos.js HTTP/1.1" 200 14244
+[27/Apr/2020 14:31:38] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 58072
+[27/Apr/2020 14:31:38] "GET /static/js/owl.carousel.min.js HTTP/1.1" 200 42766
+[27/Apr/2020 14:31:38] "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 200 9029
+[27/Apr/2020 14:31:38] "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 200 8111
+[27/Apr/2020 14:31:38] "GET /static/js/jquery.fancybox.min.js HTTP/1.1" 200 68196
+[27/Apr/2020 14:31:38] "GET /static/js/jquery.animateNumber.min.js HTTP/1.1" 200 1391
+[27/Apr/2020 14:31:38] "GET /static/js/main.js HTTP/1.1" 200 8603
+[27/Apr/2020 14:31:38] "GET /static/js/jquery.sticky.js HTTP/1.1" 200 10084
+[27/Apr/2020 14:31:38] "GET /static/images/logo.png HTTP/1.1" 200 5522
+[27/Apr/2020 14:31:38] "GET /static/images/img_5.jpg HTTP/1.1" 200 32781
+[27/Apr/2020 14:31:38] "GET /static/images/img_7.jpg HTTP/1.1" 200 99392
+[27/Apr/2020 14:31:38] "GET /static/fonts/icomoon/fonts/icomoon.ttf?10si43 HTTP/1.1" 200 307168
+[27/Apr/2020 14:31:38] "GET /static/images/person_2.jpg HTTP/1.1" 200 285512
+[27/Apr/2020 14:31:38] "GET /static/images/img_6.jpg HTTP/1.1" 200 481844
+[27/Apr/2020 14:31:38] "GET /static/images/person_3.jpg HTTP/1.1" 200 228890
+[27/Apr/2020 14:31:38] "GET /static/images/person_4.jpg HTTP/1.1" 200 375097
+[27/Apr/2020 14:31:38] "GET /static/images/about_1.jpg HTTP/1.1" 200 120610
+[27/Apr/2020 14:31:38] "GET /static/images/img_8.jpg HTTP/1.1" 200 231834
+Not Found: /favicon.ico
+[27/Apr/2020 14:31:39] "GET /favicon.ico HTTP/1.1" 404 2790
+Not Found: /favicon.ico
+[27/Apr/2020 14:52:44] "GET /favicon.ico HTTP/1.1" 404 2790
+[27/Apr/2020 16:43:02] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1855
+[27/Apr/2020 16:43:02] "GET /static/admin/css/base.css HTTP/1.1" 200 16106
+[27/Apr/2020 16:43:02] "GET /static/admin/css/login.css HTTP/1.1" 200 1203
+[27/Apr/2020 16:43:02] "GET /static/admin/css/responsive.css HTTP/1.1" 200 17894
+[27/Apr/2020 16:43:03] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[27/Apr/2020 16:43:03] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[27/Apr/2020 16:43:03] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+Not Found: /favicon.ico
+[27/Apr/2020 16:43:03] "GET /favicon.ico HTTP/1.1" 404 2790
+[27/Apr/2020 18:26:48] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[27/Apr/2020 18:26:48] "    c                           " 400 -
+[27/Apr/2020 18:51:45] code 400, message Bad request syntax ('\x00\x00\x00TZ\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x04\x010I\x00\x00\x00\x00\x80\x0b¨À\x00\x0c)t F\x07\x00tsXrcsXYs9\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00bbXcsXctst\x00\x00\x00\x00\x00\x00')
+[27/Apr/2020 18:51:45] "   TZ          0I    ¨À )t F tsXrcsXYs9                      bbXcsXctst      " 400 -
+[27/Apr/2020 18:51:46] "GET / HTTP/1.1" 200 27103
+[27/Apr/2020 21:36:17] "GET / HTTP/1.1" 200 27103
+----------------------------------------
+Exception happened during processing of request from ('172.105.89.161', 43883)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/site-packages/django/core/servers/basehttp.py", line 139, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+[27/Apr/2020 23:07:05] "GET / HTTP/1.1" 200 27103
+[28/Apr/2020 01:25:31] "GET / HTTP/1.1" 200 27103
+[28/Apr/2020 01:25:31] "GET /static/6323456_preview.png HTTP/1.1" 404 1682
+[28/Apr/2020 01:25:35] "GET / HTTP/1.1" 200 27103
+[28/Apr/2020 10:43:18] "GET /index/ HTTP/1.1" 200 27103
+Not Found: /favicon.ico
+[28/Apr/2020 10:43:19] "GET /favicon.ico HTTP/1.1" 404 2790
+[28/Apr/2020 11:53:21] "GET /index/ HTTP/1.1" 200 27103
+[28/Apr/2020 11:53:23] "GET /static/css/jquery-ui.css HTTP/1.1" 200 21738
+[28/Apr/2020 11:53:23] "GET /static/fonts/icomoon/style.css HTTP/1.1" 200 79820
+[28/Apr/2020 11:53:23] "GET /static/css/owl.theme.default.min.css HTTP/1.1" 200 965
+[28/Apr/2020 11:53:23] "GET /static/css/owl.carousel.min.css HTTP/1.1" 200 2936
+[28/Apr/2020 11:53:24] "GET /static/css/jquery.fancybox.min.css HTTP/1.1" 200 12795
+[28/Apr/2020 11:53:26] "GET /static/css/bootstrap-datepicker.css HTTP/1.1" 200 17144
+[28/Apr/2020 11:53:27] "GET /static/fonts/flaticon/font/flaticon.css HTTP/1.1" 200 1330
+[28/Apr/2020 11:53:27] "GET /static/css/aos.css HTTP/1.1" 200 25983
+[28/Apr/2020 11:53:28] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 177055
+[28/Apr/2020 11:53:29] "GET /static/css/style.css HTTP/1.1" 200 36305
+[28/Apr/2020 11:53:32] "GET /static/js/jquery-3.3.1.min.js HTTP/1.1" 200 86926
+[28/Apr/2020 11:53:32] "GET /static/js/popper.min.js HTTP/1.1" 200 20336
+[28/Apr/2020 11:53:33] "GET /static/js/owl.carousel.min.js HTTP/1.1" 200 42766
+[28/Apr/2020 11:53:38] "GET /static/js/jquery-ui.js HTTP/1.1" 200 45799
+[28/Apr/2020 11:53:49] "GET /static/images/logo.png HTTP/1.1" 200 5522
+[28/Apr/2020 11:53:57] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 58072
+[28/Apr/2020 11:53:59] "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 200 8111
+[28/Apr/2020 11:53:59] "GET /static/js/aos.js HTTP/1.1" 200 14244
+[28/Apr/2020 11:54:11] "GET /static/js/jquery.fancybox.min.js HTTP/1.1" 200 68196
+[28/Apr/2020 11:54:13] "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 200 9029
+[28/Apr/2020 11:54:14] "GET /static/js/jquery.animateNumber.min.js HTTP/1.1" 200 1391
+[28/Apr/2020 11:54:30] "GET /static/js/jquery.sticky.js HTTP/1.1" 200 10084
+[28/Apr/2020 11:54:33] "GET /static/js/main.js HTTP/1.1" 200 8603
+[28/Apr/2020 11:54:36] "GET /static/images/img_5.jpg HTTP/1.1" 200 32781
+[28/Apr/2020 11:54:55] "GET /static/images/img_7.jpg HTTP/1.1" 200 99392
+[28/Apr/2020 11:55:06] "GET /index/ HTTP/1.1" 200 27103
+[28/Apr/2020 11:55:14] "GET /static/css/jquery-ui.css HTTP/1.1" 200 21738
+[28/Apr/2020 11:55:14] "GET /static/css/owl.theme.default.min.css HTTP/1.1" 200 965
+[28/Apr/2020 11:55:14] "GET /static/css/owl.carousel.min.css HTTP/1.1" 200 2936
+[28/Apr/2020 11:55:17] "GET /static/css/jquery.fancybox.min.css HTTP/1.1" 200 12795
+[28/Apr/2020 11:55:26] "GET /static/images/img_8.jpg HTTP/1.1" 200 231834
+[28/Apr/2020 11:55:26] "GET /static/css/bootstrap-datepicker.css HTTP/1.1" 200 17144
+[28/Apr/2020 11:55:28] "GET /static/fonts/flaticon/font/flaticon.css HTTP/1.1" 200 1330
+[28/Apr/2020 11:55:28] "GET /static/fonts/icomoon/style.css HTTP/1.1" 200 65536
+[28/Apr/2020 11:55:29] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 147456
+Not Found: /index/admin
+[28/Apr/2020 11:55:39] "GET /index/admin HTTP/1.1" 404 2781
+[28/Apr/2020 11:55:46] "GET /static/images/person_3.jpg HTTP/1.1" 200 228890
+[28/Apr/2020 11:55:48] "GET /static/images/person_2.jpg HTTP/1.1" 200 229376
+[28/Apr/2020 11:55:49] "GET /static/images/img_6.jpg HTTP/1.1" 200 286720
+[28/Apr/2020 11:55:50] "GET /static/images/about_1.jpg HTTP/1.1" 200 114688
+[28/Apr/2020 11:55:50] "GET /static/images/person_4.jpg HTTP/1.1" 200 155648
+Not Found: /favicon.ico
+[28/Apr/2020 11:55:58] "GET /favicon.ico HTTP/1.1" 404 2781
+[28/Apr/2020 11:56:33] "GET /index/ HTTP/1.1" 200 27103
+[28/Apr/2020 11:57:04] "GET /static/images/person_3.jpg HTTP/1.1" 200 228890
+Not Found: /favicon.ico
+[28/Apr/2020 11:57:23] "GET /favicon.ico HTTP/1.1" 404 2794
+[28/Apr/2020 11:58:29] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1855
+[28/Apr/2020 11:58:36] "GET /static/admin/css/base.css HTTP/1.1" 200 16106
+[28/Apr/2020 11:58:44] "GET /static/admin/css/login.css HTTP/1.1" 200 1203
+[28/Apr/2020 11:58:44] "GET /static/admin/css/responsive.css HTTP/1.1" 200 17894
+[28/Apr/2020 11:59:05] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[28/Apr/2020 11:59:17] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[28/Apr/2020 11:59:26] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[28/Apr/2020 12:00:42] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[28/Apr/2020 12:00:49] "GET /admin/ HTTP/1.1" 200 5939
+[28/Apr/2020 12:00:51] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+[28/Apr/2020 12:00:55] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[28/Apr/2020 12:01:00] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[28/Apr/2020 12:01:01] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+[28/Apr/2020 12:01:06] "GET /admin/website/product/ HTTP/1.1" 200 4481
+[28/Apr/2020 12:01:18] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+[28/Apr/2020 12:01:18] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+[28/Apr/2020 12:01:18] "GET /static/admin/js/core.js HTTP/1.1" 200 7134
+[28/Apr/2020 12:01:18] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 12:01:18] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6897
+[28/Apr/2020 12:01:21] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 258648
+[28/Apr/2020 12:01:26] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8729
+[28/Apr/2020 12:01:26] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+[28/Apr/2020 12:01:26] "GET /static/admin/js/actions.js HTTP/1.1" 200 6502
+[28/Apr/2020 12:01:32] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+[28/Apr/2020 12:01:45] "GET /admin/website/product/add/ HTTP/1.1" 200 8592
+[28/Apr/2020 12:01:46] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[28/Apr/2020 12:01:51] "GET /static/admin/css/forms.css HTTP/1.1" 200 8173
+[28/Apr/2020 12:01:52] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 12:01:56] "GET /static/admin/css/widgets.css HTTP/1.1" 200 10340
+[28/Apr/2020 12:01:57] "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+[28/Apr/2020 12:01:57] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+[28/Apr/2020 12:02:31] "GET /admin/website/product/ HTTP/1.1" 200 4481
+[28/Apr/2020 12:02:31] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[28/Apr/2020 12:03:00] "GET /admin/ HTTP/1.1" 200 5939
+[28/Apr/2020 12:03:06] "GET /admin/website/category/ HTTP/1.1" 200 5392
+[28/Apr/2020 12:03:14] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 12:03:54] "GET /admin/website/category/add/ HTTP/1.1" 200 5534
+[28/Apr/2020 12:03:55] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 12:04:12] "GET /admin/website/category/ HTTP/1.1" 200 5392
+[28/Apr/2020 12:04:18] "GET /admin/ HTTP/1.1" 200 5939
+[28/Apr/2020 12:04:29] "GET /admin/website/product/ HTTP/1.1" 200 4481
+[28/Apr/2020 12:04:31] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 12:04:37] "GET /admin/website/product/add/ HTTP/1.1" 200 8592
+[28/Apr/2020 12:04:42] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 12:06:34] "GET /index/ HTTP/1.1" 200 27103
+[28/Apr/2020 12:06:46] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[28/Apr/2020 12:06:52] "GET /admin/website/product/2/change/ HTTP/1.1" 200 10215
+[28/Apr/2020 12:06:54] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 12:06:54] "GET /landing/3/ HTTP/1.1" 200 8438
+[28/Apr/2020 12:06:58] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[28/Apr/2020 12:07:00] "GET /static/images/product.jpeg HTTP/1.1" 200 1599
+[28/Apr/2020 12:07:23] "POST /admin/website/product/2/change/ HTTP/1.1" 302 0
+[28/Apr/2020 12:07:23] "GET /admin/website/product/ HTTP/1.1" 200 4890
+[28/Apr/2020 12:07:31] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 12:07:42] "GET /landing/3/ HTTP/1.1" 200 8438
+[28/Apr/2020 12:07:44] "GET /admin/website/product/1/change/ HTTP/1.1" 200 11897
+[28/Apr/2020 12:07:48] "GET /admin/website/product/2/change/ HTTP/1.1" 200 9991
+[28/Apr/2020 12:07:57] "GET /admin/website/product/add/ HTTP/1.1" 200 8592
+[28/Apr/2020 12:07:59] "GET /index/ HTTP/1.1" 200 27103
+[28/Apr/2020 12:08:13] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[28/Apr/2020 12:08:18] "GET /landing/3/ HTTP/1.1" 200 9052
+[28/Apr/2020 12:08:19] "GET /admin/website/product/ HTTP/1.1" 200 5111
+[28/Apr/2020 12:08:19] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 12:08:49] "POST /admin/website/product/ HTTP/1.1" 200 3411
+[28/Apr/2020 12:08:49] "GET /static/admin/js/cancel.js HTTP/1.1" 200 204
+[28/Apr/2020 12:09:01] "POST /admin/website/product/ HTTP/1.1" 302 0
+[28/Apr/2020 12:09:07] "GET /admin/website/product/ HTTP/1.1" 200 4828
+[28/Apr/2020 12:09:14] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 12:09:25] "GET /admin/website/product/add/ HTTP/1.1" 200 8592
+[28/Apr/2020 12:09:26] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 12:10:40] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[28/Apr/2020 12:10:41] "GET /admin/website/product/add/ HTTP/1.1" 200 8834
+[28/Apr/2020 12:10:54] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 12:11:04] "GET /landing/3/ HTTP/1.1" 200 9069
+[28/Apr/2020 12:11:06] "GET /media/dynamicImg/project/2-Node-Edit-1-1-600x600.png HTTP/1.1" 200 42341
+[28/Apr/2020 12:11:33] "GET /products/4/ HTTP/1.1" 200 6681
+[28/Apr/2020 12:11:34] "GET /media/dynamicImg/project/2-Node-Edit-1-1-600x600_RGWZa7p.png HTTP/1.1" 200 42341
+[28/Apr/2020 12:11:45] "GET /media/dynamicImg/project/2-Node-Edit-1-1-600x600_w6FvFt1.png HTTP/1.1" 200 42341
+[28/Apr/2020 12:12:51] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[28/Apr/2020 12:12:57] "GET /admin/website/product/add/ HTTP/1.1" 200 8834
+[28/Apr/2020 12:13:04] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 12:13:11] "GET /landing/0/ HTTP/1.1" 200 10599
+[28/Apr/2020 12:13:14] "GET /media/dynamicImg/project/61PVIzk6ALL._SL1104__idFSsug.jpg HTTP/1.1" 200 115395
+[28/Apr/2020 12:13:19] "GET /media/dynamicImg/project/2-Node-Edit-1-1-600x600.png HTTP/1.1" 304 0
+[28/Apr/2020 12:13:21] "GET /media/dynamicImg/project/4node-1-800x600.jpg HTTP/1.1" 200 55288
+[28/Apr/2020 12:14:08] "GET /products/5/ HTTP/1.1" 200 6317
+[28/Apr/2020 12:14:08] "GET /media/dynamicImg/project/4node-1-800x600_hpQnZ0Z.jpg HTTP/1.1" 200 55288
+[28/Apr/2020 12:14:16] "GET /static/images/productDefault.jpg HTTP/1.1" 200 8500
+[28/Apr/2020 12:14:51] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[28/Apr/2020 12:14:56] "GET /admin/website/product/add/ HTTP/1.1" 200 8834
+[28/Apr/2020 12:14:57] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 12:15:05] "GET /landing/0/ HTTP/1.1" 200 11480
+[28/Apr/2020 12:15:12] "GET /media/dynamicImg/project/2-Node-Edit-1-1-600x600.png HTTP/1.1" 304 0
+[28/Apr/2020 12:15:18] "GET /media/dynamicImg/project/4node-1-800x600.jpg HTTP/1.1" 304 0
+[28/Apr/2020 12:15:18] "GET /media/dynamicImg/project/4node-1-800x600_Elxedu4.jpg HTTP/1.1" 200 55288
+[28/Apr/2020 12:15:58] "GET /products/6/ HTTP/1.1" 200 6306
+[28/Apr/2020 12:16:34] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[28/Apr/2020 12:16:39] "GET /admin/website/product/add/ HTTP/1.1" 200 8834
+[28/Apr/2020 12:16:41] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 12:17:53] "GET /admin/website/product/add/ HTTP/1.1" 200 8592
+[28/Apr/2020 12:40:23] "GET /products/6/ HTTP/1.1" 200 6306
+[28/Apr/2020 12:42:18] "GET /admin/ HTTP/1.1" 200 7076
+[28/Apr/2020 12:42:18] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+[28/Apr/2020 12:45:13] "GET /admin/website/product/ HTTP/1.1" 200 5585
+[28/Apr/2020 12:45:14] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 12:45:34] "POST /admin/website/product/ HTTP/1.1" 200 4008
+[28/Apr/2020 12:45:38] "POST /admin/website/product/ HTTP/1.1" 302 0
+[28/Apr/2020 12:45:38] "GET /admin/website/product/add/ HTTP/1.1" 200 8592
+[28/Apr/2020 12:45:39] "GET /admin/website/product/ HTTP/1.1" 200 4605
+[28/Apr/2020 12:45:40] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 12:45:40] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 12:45:48] "GET / HTTP/1.1" 200 27103
+[28/Apr/2020 12:45:58] "GET /admin/website/product/add/ HTTP/1.1" 200 8592
+[28/Apr/2020 12:45:58] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 12:48:02] "GET /admin/website/category/add/?_to_field=id&_popup=1 HTTP/1.1" 200 4533
+[28/Apr/2020 12:48:02] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 12:48:09] "GET /index/ HTTP/1.1" 200 27103
+Not Found: /favicon.ico
+[28/Apr/2020 12:48:10] "GET /favicon.ico HTTP/1.1" 404 2794
+[28/Apr/2020 12:49:26] "POST /admin/website/category/add/?_to_field=id&_popup=1 HTTP/1.1" 200 366
+[28/Apr/2020 12:49:26] "GET /static/admin/js/popup_response.js HTTP/1.1" 200 569
+[28/Apr/2020 12:49:35] "GET /index/ HTTP/1.1" 200 27210
+[28/Apr/2020 12:49:46] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[28/Apr/2020 12:49:46] "GET /admin/website/product/add/ HTTP/1.1" 200 8876
+[28/Apr/2020 12:49:46] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 12:49:53] "GET /landing/6/ HTTP/1.1" 200 8585
+[28/Apr/2020 12:49:54] "GET /media/dynamicImg/project/8node-1-800x600_X8CvAGp.jpg HTTP/1.1" 200 45019
+[28/Apr/2020 12:50:00] "GET /products/8/ HTTP/1.1" 200 6825
+[28/Apr/2020 12:50:00] "GET /media/dynamicImg/project/8node-1-800x600_mP6O18P.jpg HTTP/1.1" 200 45019
+[28/Apr/2020 12:50:00] "GET /media/dynamicImg/project/8node-1-800x600_tysvmll.jpg HTTP/1.1" 200 45019
+[28/Apr/2020 12:51:39] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[28/Apr/2020 12:51:40] "GET /admin/website/product/add/ HTTP/1.1" 200 8876
+[28/Apr/2020 12:51:47] "GET /landing/0/ HTTP/1.1" 200 10001
+[28/Apr/2020 12:51:48] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 12:51:50] "GET /media/dynamicImg/project/4node-1-800x600_eBLmqZJ.jpg HTTP/1.1" 200 55288
+[28/Apr/2020 12:51:56] "GET /media/dynamicImg/project/8node-1-800x600_X8CvAGp.jpg HTTP/1.1" 304 0
+[28/Apr/2020 12:51:58] "GET /products/9/ HTTP/1.1" 200 6817
+[28/Apr/2020 12:52:10] "GET /media/dynamicImg/project/4node-1-800x600_MP8VoQ5.jpg HTTP/1.1" 200 55288
+[28/Apr/2020 12:52:11] "GET /media/dynamicImg/project/4node-1-800x600_5aP7Gn1.jpg HTTP/1.1" 200 55288
+[28/Apr/2020 12:53:14] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[28/Apr/2020 12:53:19] "GET /admin/website/product/add/ HTTP/1.1" 200 8877
+[28/Apr/2020 12:53:22] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 12:55:09] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[28/Apr/2020 12:55:10] "GET /admin/website/product/add/ HTTP/1.1" 200 8881
+[28/Apr/2020 12:55:15] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 12:59:03] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[28/Apr/2020 12:59:04] "GET /landing/0/ HTTP/1.1" 200 12279
+[28/Apr/2020 12:59:09] "GET /admin/website/product/add/ HTTP/1.1" 200 8883
+[28/Apr/2020 12:59:12] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 12:59:15] "GET /media/dynamicImg/project/1-1-800x600.png HTTP/1.1" 200 65889
+[28/Apr/2020 12:59:16] "GET /media/dynamicImg/project/8node-1-800x600_X8CvAGp.jpg HTTP/1.1" 304 0
+[28/Apr/2020 12:59:16] "GET /media/dynamicImg/project/4node-1-800x600_eBLmqZJ.jpg HTTP/1.1" 304 0
+[28/Apr/2020 12:59:17] "GET /media/dynamicImg/project/2-Node-Edit-1-1-600x600_Z35suvi.png HTTP/1.1" 200 42341
+[28/Apr/2020 12:59:28] "GET /media/dynamicImg/project/pert_plug_2-800x600.png HTTP/1.1" 200 259222
+Internal Server Error: /admin/website/product/add/
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 209, in execute
+    res = self._query(query)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 315, in _query
+    db.query(q)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.OperationalError: (1366, "Incorrect string value: '\\xE2\\x84\\x89 - ...' for column 'description' at row 1")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 574, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1553, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 62, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 58, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1450, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1490, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1026, in save_model
+    obj.save()
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 729, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 759, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 842, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 880, in _do_insert
+    using=using, raw=raw)
+  File "/usr/lib/python3.6/site-packages/django/db/models/manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/db/models/query.py", line 1125, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "/usr/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 1280, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 209, in execute
+    res = self._query(query)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 315, in _query
+    db.query(q)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1366, "Incorrect string value: '\\xE2\\x84\\x89 - ...' for column 'description' at row 1")
+[28/Apr/2020 13:01:32] "POST /admin/website/product/add/ HTTP/1.1" 500 280811
+Internal Server Error: /admin/website/product/add/
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 209, in execute
+    res = self._query(query)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 315, in _query
+    db.query(q)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.OperationalError: (1366, "Incorrect string value: '\\xE2\\x84\\x89 - ...' for column 'description' at row 1")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 574, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1553, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 62, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 58, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1450, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1490, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1026, in save_model
+    obj.save()
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 729, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 759, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 842, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 880, in _do_insert
+    using=using, raw=raw)
+  File "/usr/lib/python3.6/site-packages/django/db/models/manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/db/models/query.py", line 1125, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "/usr/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 1280, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 209, in execute
+    res = self._query(query)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 315, in _query
+    db.query(q)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1366, "Incorrect string value: '\\xE2\\x84\\x89 - ...' for column 'description' at row 1")
+[28/Apr/2020 13:02:06] "POST /admin/website/product/add/ HTTP/1.1" 500 281221
+[28/Apr/2020 13:02:18] "GET /admin/website/product/add/ HTTP/1.1" 200 8634
+Internal Server Error: /admin/website/product/add/
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 209, in execute
+    res = self._query(query)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 315, in _query
+    db.query(q)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.OperationalError: (1366, "Incorrect string value: '\\xE2\\x84\\x89 - ...' for column 'description' at row 1")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 574, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1553, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 62, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 58, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1450, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1490, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1026, in save_model
+    obj.save()
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 729, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 759, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 842, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 880, in _do_insert
+    using=using, raw=raw)
+  File "/usr/lib/python3.6/site-packages/django/db/models/manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/db/models/query.py", line 1125, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "/usr/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 1280, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 209, in execute
+    res = self._query(query)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 315, in _query
+    db.query(q)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1366, "Incorrect string value: '\\xE2\\x84\\x89 - ...' for column 'description' at row 1")
+[28/Apr/2020 13:02:43] "POST /admin/website/product/add/ HTTP/1.1" 500 281220
+[28/Apr/2020 13:03:12] "GET /admin/website/product/add/ HTTP/1.1" 200 8634
+[28/Apr/2020 13:03:23] "GET /admin/website/product/add/ HTTP/1.1" 200 8634
+[28/Apr/2020 13:03:24] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+Internal Server Error: /admin/website/product/add/
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 209, in execute
+    res = self._query(query)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 315, in _query
+    db.query(q)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.OperationalError: (1366, "Incorrect string value: '\\xE2\\x84\\x89 - ...' for column 'description' at row 1")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 574, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1553, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 62, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 58, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1450, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1490, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1026, in save_model
+    obj.save()
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 729, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 759, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 842, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 880, in _do_insert
+    using=using, raw=raw)
+  File "/usr/lib/python3.6/site-packages/django/db/models/manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/db/models/query.py", line 1125, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "/usr/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 1280, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 209, in execute
+    res = self._query(query)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 315, in _query
+    db.query(q)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1366, "Incorrect string value: '\\xE2\\x84\\x89 - ...' for column 'description' at row 1")
+[28/Apr/2020 13:04:32] "POST /admin/website/product/add/ HTTP/1.1" 500 281456
+Internal Server Error: /admin/website/product/add/
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 209, in execute
+    res = self._query(query)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 315, in _query
+    db.query(q)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.OperationalError: (1366, "Incorrect string value: '\\xE2\\x84\\x89 - ...' for column 'description' at row 1")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 574, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1553, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 62, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 58, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1450, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1490, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1026, in save_model
+    obj.save()
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 729, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 759, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 842, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 880, in _do_insert
+    using=using, raw=raw)
+  File "/usr/lib/python3.6/site-packages/django/db/models/manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/db/models/query.py", line 1125, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "/usr/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 1280, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 209, in execute
+    res = self._query(query)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 315, in _query
+    db.query(q)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1366, "Incorrect string value: '\\xE2\\x84\\x89 - ...' for column 'description' at row 1")
+[28/Apr/2020 13:05:18] "POST /admin/website/product/add/ HTTP/1.1" 500 281456
+[28/Apr/2020 13:26:01] "GET /admin/website/product/add/ HTTP/1.1" 200 8634
+[28/Apr/2020 13:26:01] "GET /landing/0/ HTTP/1.1" 200 12279
+[28/Apr/2020 13:26:04] "GET /media/dynamicImg/project/8node-1-800x600_X8CvAGp.jpg HTTP/1.1" 304 0
+[28/Apr/2020 13:26:11] "GET /media/dynamicImg/project/pert_plug_2-800x600.png HTTP/1.1" 304 0
+[28/Apr/2020 13:26:15] "GET /media/dynamicImg/project/1-1-800x600.png HTTP/1.1" 304 0
+Internal Server Error: /admin/website/product/add/
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 209, in execute
+    res = self._query(query)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 315, in _query
+    db.query(q)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.OperationalError: (1366, "Incorrect string value: '\\xE2\\x84\\x89 - ...' for column 'description' at row 1")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 574, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1553, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 62, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 58, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1450, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1490, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1026, in save_model
+    obj.save()
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 729, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 759, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 842, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 880, in _do_insert
+    using=using, raw=raw)
+  File "/usr/lib/python3.6/site-packages/django/db/models/manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/db/models/query.py", line 1125, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "/usr/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 1280, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 209, in execute
+    res = self._query(query)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 315, in _query
+    db.query(q)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1366, "Incorrect string value: '\\xE2\\x84\\x89 - ...' for column 'description' at row 1")
+[28/Apr/2020 13:26:39] "GET /landing/0/ HTTP/1.1" 200 12279
+[28/Apr/2020 13:26:41] "GET /media/dynamicImg/project/4node-1-800x600_eBLmqZJ.jpg HTTP/1.1" 304 0
+[28/Apr/2020 13:26:41] "GET /media/dynamicImg/project/2-Node-Edit-1-1-600x600_Z35suvi.png HTTP/1.1" 304 0
+[28/Apr/2020 13:26:55] "POST /admin/website/product/add/ HTTP/1.1" 500 281588
+[28/Apr/2020 13:28:34] "GET / HTTP/1.1" 200 27210
+[28/Apr/2020 13:28:34] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 177055
+[28/Apr/2020 13:28:34] "GET /static/images/img_6.jpg HTTP/1.1" 200 481844
+[28/Apr/2020 13:28:34] "GET /static/images/img_8.jpg HTTP/1.1" 200 231834
+[28/Apr/2020 13:28:34] "GET /static/images/person_3.jpg HTTP/1.1" 200 228890
+[28/Apr/2020 13:28:34] "GET /static/images/person_2.jpg HTTP/1.1" 200 285512
+[28/Apr/2020 13:28:35] "GET /static/images/person_4.jpg HTTP/1.1" 200 375097
+[28/Apr/2020 13:28:35] "GET /static/fonts/icomoon/fonts/icomoon.ttf?10si43 HTTP/1.1" 200 307168
+Not Found: /favicon.ico
+[28/Apr/2020 13:28:35] "GET /favicon.ico HTTP/1.1" 404 2790
+[28/Apr/2020 13:28:41] "GET /landing/1/ HTTP/1.1" 200 8481
+[28/Apr/2020 13:28:41] "GET /media/dynamicImg/project/61PVIzk6ALL._SL1104__idFSsug.jpg HTTP/1.1" 200 115395
+[28/Apr/2020 13:28:44] "GET /products/1/ HTTP/1.1" 200 8624
+[28/Apr/2020 13:28:44] "GET /media/dynamicImg/project/HOme-automation_95BJtd4_AG4WcFC.jpg HTTP/1.1" 200 154795
+[28/Apr/2020 13:28:44] "GET /static/images/productDefault.jpg HTTP/1.1" 200 8500
+[28/Apr/2020 13:28:48] "GET /index/ HTTP/1.1" 200 27210
+[28/Apr/2020 13:28:52] "GET /landing/6/ HTTP/1.1" 200 11622
+[28/Apr/2020 13:28:53] "GET /media/dynamicImg/project/8node-1-800x600_X8CvAGp.jpg HTTP/1.1" 200 45019
+[28/Apr/2020 13:28:53] "GET /media/dynamicImg/project/4node-1-800x600_eBLmqZJ.jpg HTTP/1.1" 200 55288
+[28/Apr/2020 13:28:53] "GET /media/dynamicImg/project/2-Node-Edit-1-1-600x600_Z35suvi.png HTTP/1.1" 200 42341
+[28/Apr/2020 13:28:53] "GET /media/dynamicImg/project/1-1-800x600.png HTTP/1.1" 200 65889
+[28/Apr/2020 13:28:53] "GET /media/dynamicImg/project/pert_plug_2-800x600.png HTTP/1.1" 200 259222
+[28/Apr/2020 13:28:59] "GET /index/ HTTP/1.1" 200 27210
+[28/Apr/2020 13:29:07] "GET /landing/0/ HTTP/1.1" 200 12279
+[28/Apr/2020 13:29:12] "GET /index/ HTTP/1.1" 200 27210
+[28/Apr/2020 13:29:16] "GET /landing/5/ HTTP/1.1" 200 7875
+[28/Apr/2020 13:29:19] "GET /index/ HTTP/1.1" 200 27210
+[28/Apr/2020 13:29:22] "GET /landing/2/ HTTP/1.1" 200 7875
+[28/Apr/2020 13:29:24] "GET /index/ HTTP/1.1" 200 27210
+[28/Apr/2020 13:29:27] "GET /landing/3/ HTTP/1.1" 200 7875
+[28/Apr/2020 13:29:31] "GET /index/ HTTP/1.1" 200 27210
+Internal Server Error: /admin/website/product/add/
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 209, in execute
+    res = self._query(query)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 315, in _query
+    db.query(q)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.OperationalError: (1366, "Incorrect string value: '\\xE2\\x84\\x89 - ...' for column 'description' at row 1")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 574, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1553, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 62, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 58, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1450, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1490, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1026, in save_model
+    obj.save()
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 729, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 759, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 842, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 880, in _do_insert
+    using=using, raw=raw)
+  File "/usr/lib/python3.6/site-packages/django/db/models/manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/db/models/query.py", line 1125, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "/usr/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 1280, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 209, in execute
+    res = self._query(query)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 315, in _query
+    db.query(q)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1366, "Incorrect string value: '\\xE2\\x84\\x89 - ...' for column 'description' at row 1")
+[28/Apr/2020 13:29:37] "POST /admin/website/product/add/ HTTP/1.1" 500 281456
+Internal Server Error: /admin/website/product/add/
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 209, in execute
+    res = self._query(query)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 315, in _query
+    db.query(q)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.OperationalError: (1366, "Incorrect string value: '\\xE2\\x84\\x89 - ...' for column 'description' at row 1")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/site-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/lib/python3.6/site-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 574, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1553, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 62, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/utils/decorators.py", line 58, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1450, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1490, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/usr/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1026, in save_model
+    obj.save()
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 729, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 759, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 842, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "/usr/lib/python3.6/site-packages/django/db/models/base.py", line 880, in _do_insert
+    using=using, raw=raw)
+  File "/usr/lib/python3.6/site-packages/django/db/models/manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/lib/python3.6/site-packages/django/db/models/query.py", line 1125, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "/usr/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 1280, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/lib/python3.6/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "/usr/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 209, in execute
+    res = self._query(query)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/cursors.py", line 315, in _query
+    db.query(q)
+  File "/usr/lib/python3.6/site-packages/MySQLdb/connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1366, "Incorrect string value: '\\xE2\\x84\\x89 - ...' for column 'description' at row 1")
+[28/Apr/2020 13:30:17] "GET /landing/1/ HTTP/1.1" 200 8481
+[28/Apr/2020 13:30:18] "POST /admin/website/product/add/ HTTP/1.1" 500 281456
+[28/Apr/2020 13:30:20] "GET /products/1/ HTTP/1.1" 200 8624
+[28/Apr/2020 13:30:22] "GET /landing/0/ HTTP/1.1" 200 12279
+[28/Apr/2020 13:30:24] "GET /products/11/ HTTP/1.1" 200 6629
+[28/Apr/2020 13:30:25] "GET /media/dynamicImg/project/pert_plug_2-800x600_ikizkKs.png HTTP/1.1" 200 259222
+[28/Apr/2020 13:30:25] "GET /media/dynamicImg/project/pert_plug_2-800x600_YpEPOuX.png HTTP/1.1" 200 259222
+[28/Apr/2020 13:30:28] "GET /index/ HTTP/1.1" 200 27210
+[28/Apr/2020 13:30:31] "GET /landing/6/ HTTP/1.1" 200 11622
+[28/Apr/2020 13:30:34] "GET /products/10/ HTTP/1.1" 200 6675
+[28/Apr/2020 13:30:34] "GET /media/dynamicImg/project/2-Node-Edit-1-1-600x600_8WFmHY1.png HTTP/1.1" 200 42341
+[28/Apr/2020 13:30:34] "GET /media/dynamicImg/project/2-Node-Edit-1-1-600x600_KdimIkF.png HTTP/1.1" 200 42341
+[28/Apr/2020 13:31:10] "GET /admin/website/product/add/ HTTP/1.1" 200 8634
+[28/Apr/2020 13:31:31] "GET /index/ HTTP/1.1" 200 27210
+[28/Apr/2020 13:31:38] "GET /admin HTTP/1.1" 301 0
+[28/Apr/2020 13:31:38] "GET /admin/ HTTP/1.1" 302 0
+[28/Apr/2020 13:31:38] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1855
+[28/Apr/2020 13:31:38] "GET /static/admin/css/base.css HTTP/1.1" 200 16106
+[28/Apr/2020 13:31:38] "GET /static/admin/css/login.css HTTP/1.1" 200 1203
+[28/Apr/2020 13:31:38] "GET /static/admin/css/responsive.css HTTP/1.1" 200 17894
+[28/Apr/2020 13:31:38] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[28/Apr/2020 13:31:39] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[28/Apr/2020 13:31:39] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[28/Apr/2020 13:31:41] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[28/Apr/2020 13:31:41] "GET /admin/ HTTP/1.1" 200 6954
+[28/Apr/2020 13:31:41] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+[28/Apr/2020 13:31:41] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[28/Apr/2020 13:31:41] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[28/Apr/2020 13:31:41] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+[28/Apr/2020 13:31:41] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+[28/Apr/2020 13:31:43] "GET /admin/website/product/ HTTP/1.1" 200 5601
+[28/Apr/2020 13:31:43] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+[28/Apr/2020 13:31:43] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+[28/Apr/2020 13:31:43] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 13:31:43] "GET /static/admin/js/core.js HTTP/1.1" 200 7134
+[28/Apr/2020 13:31:43] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6897
+[28/Apr/2020 13:31:43] "GET /static/admin/js/actions.js HTTP/1.1" 200 6502
+[28/Apr/2020 13:31:43] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8729
+[28/Apr/2020 13:31:43] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+[28/Apr/2020 13:31:43] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 258648
+[28/Apr/2020 13:31:43] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+[28/Apr/2020 13:31:43] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[28/Apr/2020 13:32:20] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[28/Apr/2020 13:32:20] "GET /admin/website/product/add/ HTTP/1.1" 200 8890
+[28/Apr/2020 13:32:20] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 13:33:12] "GET /landing/0/ HTTP/1.1" 200 13175
+[28/Apr/2020 13:33:12] "GET /media/dynamicImg/project/8node-1-800x600_X8CvAGp.jpg HTTP/1.1" 304 0
+[28/Apr/2020 13:33:12] "GET /media/dynamicImg/project/4node-1-800x600_eBLmqZJ.jpg HTTP/1.1" 304 0
+[28/Apr/2020 13:33:12] "GET /media/dynamicImg/project/2-Node-Edit-1-1-600x600_Z35suvi.png HTTP/1.1" 304 0
+[28/Apr/2020 13:33:12] "GET /media/dynamicImg/project/pert_plug_2-800x600.png HTTP/1.1" 304 0
+[28/Apr/2020 13:33:12] "GET /media/dynamicImg/project/threeinone-insert_AQQhiVU.png HTTP/1.1" 200 34375
+[28/Apr/2020 13:33:12] "GET /media/dynamicImg/project/1-1-800x600.png HTTP/1.1" 304 0
+[28/Apr/2020 13:33:33] "GET /products/13/ HTTP/1.1" 200 7554
+[28/Apr/2020 13:33:38] "GET /media/dynamicImg/project/designed-perform_Ed8tFeR.png HTTP/1.1" 200 384241
+[28/Apr/2020 13:33:40] "GET /media/dynamicImg/project/2019-10-31-2_hiE5nkA.png HTTP/1.1" 200 563261
+[28/Apr/2020 13:37:03] "GET /admin/website/product/ HTTP/1.1" 200 5839
+[28/Apr/2020 13:37:03] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 13:37:06] "GET /admin/website/product/13/change/ HTTP/1.1" 200 10895
+[28/Apr/2020 13:37:06] "GET /static/admin/css/forms.css HTTP/1.1" 200 8173
+[28/Apr/2020 13:37:07] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 13:37:07] "GET /static/admin/css/widgets.css HTTP/1.1" 200 10340
+[28/Apr/2020 13:37:07] "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+[28/Apr/2020 13:37:07] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+[28/Apr/2020 13:37:14] "POST /admin/website/product/13/change/ HTTP/1.1" 302 0
+[28/Apr/2020 13:37:14] "GET /admin/website/product/ HTTP/1.1" 200 6050
+[28/Apr/2020 13:37:14] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 13:37:14] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[28/Apr/2020 13:37:26] "GET /index/ HTTP/1.1" 200 27210
+[28/Apr/2020 13:37:29] "GET /admin/website/product/13/change/ HTTP/1.1" 200 10895
+[28/Apr/2020 13:37:29] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 13:37:29] "GET /admin/logout/ HTTP/1.1" 200 1215
+[28/Apr/2020 13:37:37] "GET /landing/6/ HTTP/1.1" 200 12518
+[28/Apr/2020 13:37:37] "GET /media/dynamicImg/project/8node-1-800x600_X8CvAGp.jpg HTTP/1.1" 304 0
+[28/Apr/2020 13:37:37] "GET /media/dynamicImg/project/4node-1-800x600_eBLmqZJ.jpg HTTP/1.1" 304 0
+[28/Apr/2020 13:37:37] "GET /media/dynamicImg/project/threeinone-insert_AQQhiVU.png HTTP/1.1" 200 34375
+[28/Apr/2020 13:37:37] "GET /media/dynamicImg/project/2-Node-Edit-1-1-600x600_Z35suvi.png HTTP/1.1" 304 0
+[28/Apr/2020 13:37:37] "GET /media/dynamicImg/project/pert_plug_2-800x600.png HTTP/1.1" 304 0
+[28/Apr/2020 13:37:37] "GET /media/dynamicImg/project/1-1-800x600.png HTTP/1.1" 304 0
+[28/Apr/2020 13:37:40] "GET /products/13/ HTTP/1.1" 200 7554
+[28/Apr/2020 13:37:41] "GET /media/dynamicImg/project/designed-perform_Ed8tFeR.png HTTP/1.1" 200 384241
+[28/Apr/2020 13:37:41] "GET /media/dynamicImg/project/2019-10-31-2_hiE5nkA.png HTTP/1.1" 200 563261
+[28/Apr/2020 13:38:00] "POST /admin/website/product/13/change/ HTTP/1.1" 302 0
+[28/Apr/2020 13:38:00] "GET /admin/website/product/ HTTP/1.1" 200 6050
+[28/Apr/2020 13:38:01] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 13:38:12] "GET /admin/website/product/13/change/ HTTP/1.1" 200 10895
+[28/Apr/2020 13:38:12] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 13:38:48] "POST /admin/website/product/13/change/ HTTP/1.1" 302 0
+[28/Apr/2020 13:38:48] "GET /admin/website/product/ HTTP/1.1" 200 6050
+[28/Apr/2020 13:38:48] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 13:38:51] "GET /products/13/ HTTP/1.1" 200 7564
+[28/Apr/2020 13:38:52] "GET /media/dynamicImg/project/designed-perform_Ed8tFeR.png HTTP/1.1" 304 0
+[28/Apr/2020 13:38:52] "GET /media/dynamicImg/project/2019-10-31-2_hiE5nkA.png HTTP/1.1" 304 0
+[28/Apr/2020 13:38:59] "GET /admin/website/product/13/change/ HTTP/1.1" 200 10905
+[28/Apr/2020 13:38:59] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 13:39:06] "POST /admin/website/product/13/change/ HTTP/1.1" 302 0
+[28/Apr/2020 13:39:06] "GET /admin/website/product/ HTTP/1.1" 200 6050
+[28/Apr/2020 13:39:06] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[28/Apr/2020 14:38:00] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[28/Apr/2020 14:38:00] "  /*à     Cookie: mstshash=Administr" 400 -
+[28/Apr/2020 16:51:13] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00àZ\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x05\x01=K\x00\x00\x01\x01')
+[28/Apr/2020 16:51:13] "   àZ          =K  	<" 400 -
+[28/Apr/2020 16:51:14] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00àZ\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x05\x01=K\x00\x00\x01\x01')
+[28/Apr/2020 16:51:14] "   àZ          =K  	<" 400 -
+[28/Apr/2020 16:51:14] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00àZ\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x05\x01=K\x00\x00\x01\x01')
+[28/Apr/2020 16:51:14] "   àZ          =K  	<" 400 -
+[28/Apr/2020 17:35:37] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00àZ\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x05\x01=K\x00\x00\x01\x01')
+[28/Apr/2020 17:35:37] "   àZ          =K  	<" 400 -
+[28/Apr/2020 17:35:37] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00àZ\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x05\x01=K\x00\x00\x01\x01')
+[28/Apr/2020 17:35:37] "   àZ          =K  	<" 400 -
+[28/Apr/2020 17:35:37] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00àZ\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x05\x01=K\x00\x00\x01\x01')
+[28/Apr/2020 17:35:37] "   àZ          =K  	<" 400 -
+[28/Apr/2020 19:16:15] "GET / HTTP/1.1" 200 27210
+[28/Apr/2020 23:19:08] "GET / HTTP/1.1" 200 27210
+[29/Apr/2020 01:11:42] "GET / HTTP/1.1" 200 27210
+[29/Apr/2020 02:26:27] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[29/Apr/2020 02:26:27] "  /*à     Cookie: mstshash=Administr" 400 -
+[29/Apr/2020 04:23:12] "GET /index/ HTTP/1.1" 200 27210
+[29/Apr/2020 04:28:43] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[29/Apr/2020 04:28:43] "  /*à     Cookie: mstshash=Administr" 400 -
+[29/Apr/2020 06:16:12] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1855
+[29/Apr/2020 06:16:12] "GET /index/ HTTP/1.1" 200 27210
+[29/Apr/2020 06:16:13] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[29/Apr/2020 06:16:14] "GET /static/admin/css/login.css HTTP/1.1" 200 1203
+[29/Apr/2020 06:16:14] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[29/Apr/2020 06:16:15] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[29/Apr/2020 06:16:17] "GET /index/ HTTP/1.1" 200 27210
+[29/Apr/2020 06:16:26] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[29/Apr/2020 06:16:34] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+Not Found: /favicon.ico
+[29/Apr/2020 06:17:03] "GET /favicon.ico HTTP/1.1" 404 2794
+[29/Apr/2020 06:17:08] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[29/Apr/2020 06:17:42] "GET /landing/6/ HTTP/1.1" 200 12518
+[29/Apr/2020 06:17:44] "GET /static/images/img_6.jpg HTTP/1.1" 200 204800
+[29/Apr/2020 06:17:45] "GET /static/images/person_3.jpg HTTP/1.1" 200 122880
+[29/Apr/2020 06:17:45] "GET /static/images/person_2.jpg HTTP/1.1" 200 212992
+[29/Apr/2020 06:17:47] "GET /static/fonts/icomoon/fonts/icomoon.ttf?10si43 HTTP/1.1" 200 139264
+[29/Apr/2020 06:17:51] "GET /media/dynamicImg/project/8node-1-800x600_X8CvAGp.jpg HTTP/1.1" 200 45019
+[29/Apr/2020 06:18:41] "GET /media/dynamicImg/project/pert_plug_2-800x600.png HTTP/1.1" 200 259222
+[29/Apr/2020 06:18:50] "GET /media/dynamicImg/project/1-1-800x600.png HTTP/1.1" 200 65889
+[29/Apr/2020 06:18:52] "GET /media/dynamicImg/project/threeinone-insert_AQQhiVU.png HTTP/1.1" 200 34375
+[29/Apr/2020 06:18:53] "GET /static/fonts/icomoon/fonts/icomoon.ttf?10si43 HTTP/1.1" 200 307168
+[29/Apr/2020 06:18:58] "GET /media/dynamicImg/project/4node-1-800x600_eBLmqZJ.jpg HTTP/1.1" 200 55288
+Not Found: /favicon.ico
+[29/Apr/2020 06:19:10] "GET /favicon.ico HTTP/1.1" 404 2781
+[29/Apr/2020 06:21:26] "GET /products/13/ HTTP/1.1" 200 7554
+[29/Apr/2020 06:21:36] "GET /media/dynamicImg/project/designed-perform_Ed8tFeR.png HTTP/1.1" 200 384241
+[29/Apr/2020 06:21:39] "GET /media/dynamicImg/project/2019-10-31-2_hiE5nkA.png HTTP/1.1" 200 563261
+Forbidden (CSRF token missing or incorrect.): /admin/login/
+[29/Apr/2020 06:21:50] "POST /admin/login/?next=/admin/ HTTP/1.1" 403 2513
+Forbidden (CSRF token missing or incorrect.): /admin/login/
+[29/Apr/2020 06:21:55] "POST /admin/login/?next=/admin/ HTTP/1.1" 403 2513
+Forbidden (CSRF token missing or incorrect.): /admin/login/
+[29/Apr/2020 06:22:09] "POST /admin/login/?next=/admin/ HTTP/1.1" 403 2513
+[29/Apr/2020 06:22:11] "GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[29/Apr/2020 06:22:11] "GET /admin/ HTTP/1.1" 200 7205
+[29/Apr/2020 06:22:12] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+[29/Apr/2020 06:22:12] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[29/Apr/2020 06:22:12] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[29/Apr/2020 06:22:13] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+[29/Apr/2020 06:22:15] "GET /admin/website/product/ HTTP/1.1" 200 5839
+[29/Apr/2020 06:22:16] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+[29/Apr/2020 06:22:16] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+[29/Apr/2020 06:22:16] "GET /static/admin/js/core.js HTTP/1.1" 200 7134
+[29/Apr/2020 06:22:16] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6897
+[29/Apr/2020 06:22:16] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 06:22:17] "GET /static/admin/js/actions.js HTTP/1.1" 200 6502
+[29/Apr/2020 06:22:17] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8729
+[29/Apr/2020 06:22:17] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+[29/Apr/2020 06:22:19] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 258648
+[29/Apr/2020 06:22:19] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+[29/Apr/2020 06:22:21] "GET /landing/0/ HTTP/1.1" 200 13175
+[29/Apr/2020 06:22:26] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[29/Apr/2020 06:22:31] "GET /media/dynamicImg/project/61PVIzk6ALL._SL1104__idFSsug.jpg HTTP/1.1" 200 115395
+[29/Apr/2020 06:22:34] "GET /media/dynamicImg/project/2-Node-Edit-1-1-600x600_Z35suvi.png HTTP/1.1" 200 42341
+[29/Apr/2020 06:22:34] "GET /admin/website/product/add/ HTTP/1.1" 200 8634
+[29/Apr/2020 06:22:35] "GET /static/admin/css/forms.css HTTP/1.1" 200 8173
+[29/Apr/2020 06:22:35] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 06:22:36] "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+[29/Apr/2020 06:22:36] "GET /static/admin/css/widgets.css HTTP/1.1" 200 10340
+[29/Apr/2020 06:22:36] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+[29/Apr/2020 06:24:24] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[29/Apr/2020 06:24:24] "GET /admin/website/product/add/ HTTP/1.1" 200 8887
+[29/Apr/2020 06:24:24] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 06:24:25] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[29/Apr/2020 06:26:27] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[29/Apr/2020 06:26:27] "GET /admin/website/product/add/ HTTP/1.1" 200 8890
+[29/Apr/2020 06:26:27] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 06:27:54] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[29/Apr/2020 06:27:55] "GET /admin/website/product/add/ HTTP/1.1" 200 8891
+[29/Apr/2020 06:27:55] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 06:29:06] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[29/Apr/2020 06:29:06] "GET /admin/website/product/add/ HTTP/1.1" 200 8885
+[29/Apr/2020 06:29:06] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 06:30:31] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[29/Apr/2020 06:30:31] "GET /admin/website/product/add/ HTTP/1.1" 200 8887
+[29/Apr/2020 06:30:31] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 06:33:23] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[29/Apr/2020 06:33:24] "GET /admin/website/product/add/ HTTP/1.1" 200 8892
+[29/Apr/2020 06:33:24] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 06:34:44] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[29/Apr/2020 06:34:44] "GET /admin/website/product/add/ HTTP/1.1" 200 8890
+[29/Apr/2020 06:34:44] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 06:36:25] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[29/Apr/2020 06:36:26] "GET /admin/website/product/add/ HTTP/1.1" 200 8886
+[29/Apr/2020 06:36:26] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 06:37:39] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[29/Apr/2020 06:37:40] "GET /admin/website/product/add/ HTTP/1.1" 200 8882
+[29/Apr/2020 06:37:40] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 06:38:24] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[29/Apr/2020 06:38:24] "GET /admin/website/product/add/ HTTP/1.1" 200 8884
+[29/Apr/2020 06:38:24] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 06:40:29] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[29/Apr/2020 06:40:29] "GET /admin/website/product/add/ HTTP/1.1" 200 8883
+[29/Apr/2020 06:40:29] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 06:42:40] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[29/Apr/2020 06:42:40] "GET /admin/website/product/add/ HTTP/1.1" 200 8880
+[29/Apr/2020 06:42:40] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 06:44:19] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[29/Apr/2020 06:44:20] "GET /admin/website/product/add/ HTTP/1.1" 200 8880
+[29/Apr/2020 06:44:21] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 06:45:31] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[29/Apr/2020 06:45:32] "GET /admin/website/product/add/ HTTP/1.1" 200 8889
+[29/Apr/2020 06:45:33] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 06:46:35] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[29/Apr/2020 06:46:36] "GET /admin/website/product/add/ HTTP/1.1" 200 8877
+[29/Apr/2020 06:46:37] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 06:46:40] "GET /landing/0/ HTTP/1.1" 200 24910
+[29/Apr/2020 06:46:43] "GET /media/dynamicImg/project/ir-controller-device.png HTTP/1.1" 200 27727
+[29/Apr/2020 06:46:47] "GET /media/dynamicImg/project/fan-dimmer.png HTTP/1.1" 200 49335
+[29/Apr/2020 06:46:48] "GET /media/dynamicImg/project/hc-mini-portable.png HTTP/1.1" 200 31900
+[29/Apr/2020 06:46:50] "GET /admin/website/category/add/?_to_field=id&_popup=1 HTTP/1.1" 200 4533
+[29/Apr/2020 06:46:58] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 06:46:59] "GET /media/dynamicImg/project/home-video-door-bell.png HTTP/1.1" 200 64771
+[29/Apr/2020 06:47:10] "GET /media/dynamicImg/project/black_door_lock.png HTTP/1.1" 200 44529
+[29/Apr/2020 06:47:11] "GET /media/dynamicImg/project/sensorcamera.png HTTP/1.1" 200 43867
+[29/Apr/2020 06:47:20] "GET /media/dynamicImg/project/Door_Sensor.png HTTP/1.1" 200 89819
+[29/Apr/2020 06:47:26] "GET /media/dynamicImg/project/Door_Sensor_EbjTBlb.png HTTP/1.1" 200 89819
+[29/Apr/2020 06:47:30] "GET /media/dynamicImg/project/door-lock-800x600.png HTTP/1.1" 200 173746
+[29/Apr/2020 06:47:39] "POST /admin/website/category/add/?_to_field=id&_popup=1 HTTP/1.1" 200 372
+[29/Apr/2020 06:47:42] "GET /static/admin/js/popup_response.js HTTP/1.1" 200 569
+[29/Apr/2020 06:47:46] "GET /media/dynamicImg/project/rgbw-controller.png HTTP/1.1" 200 51224
+[29/Apr/2020 06:47:56] "GET /index/ HTTP/1.1" 200 27323
+[29/Apr/2020 06:47:59] "GET /media/dynamicImg/project/pebble-front-view.png HTTP/1.1" 200 245760
+[29/Apr/2020 06:47:59] "GET /media/dynamicImg/project/rgb_strip-800x600.png HTTP/1.1" 200 122880
+[29/Apr/2020 06:48:00] "GET /media/dynamicImg/project/curtain-800x600.png HTTP/1.1" 200 65536
+[29/Apr/2020 06:48:01] "GET /media/dynamicImg/project/remote.png HTTP/1.1" 200 73728
+[29/Apr/2020 06:48:18] "GET /landing/2/ HTTP/1.1" 200 10827
+[29/Apr/2020 06:48:20] "GET /static/images/person_2.jpg HTTP/1.1" 200 163840
+[29/Apr/2020 06:48:20] "GET /static/images/about_1.jpg HTTP/1.1" 200 90112
+[29/Apr/2020 06:48:20] "GET /static/images/person_3.jpg HTTP/1.1" 200 106496
+[29/Apr/2020 06:48:20] "GET /static/images/img_6.jpg HTTP/1.1" 200 155648
+[29/Apr/2020 06:48:21] "GET /static/images/person_4.jpg HTTP/1.1" 200 98304
+[29/Apr/2020 06:48:23] "GET /media/dynamicImg/project/rgbw-controller.png HTTP/1.1" 304 0
+[29/Apr/2020 06:48:56] "GET /media/dynamicImg/project/curtain-800x600.png HTTP/1.1" 200 110245
+[29/Apr/2020 06:49:08] "GET /media/dynamicImg/project/rgb_strip-800x600.png HTTP/1.1" 200 311043
+[29/Apr/2020 06:49:15] "GET /media/dynamicImg/project/pebble-front-view.png HTTP/1.1" 200 341821
+[29/Apr/2020 06:50:54] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[29/Apr/2020 06:50:54] "GET /admin/website/product/add/ HTTP/1.1" 200 8935
+[29/Apr/2020 06:50:54] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 06:52:26] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[29/Apr/2020 06:52:27] "GET /admin/website/product/add/ HTTP/1.1" 200 8935
+[29/Apr/2020 06:52:28] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 06:53:59] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[29/Apr/2020 06:53:59] "GET /admin/website/product/add/ HTTP/1.1" 200 8937
+[29/Apr/2020 06:54:00] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 06:55:00] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[29/Apr/2020 06:55:00] "GET /admin/website/product/add/ HTTP/1.1" 200 8949
+[29/Apr/2020 06:55:00] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 06:55:52] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[29/Apr/2020 06:55:52] "GET /admin/website/product/add/ HTTP/1.1" 200 8937
+[29/Apr/2020 06:55:53] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 06:56:52] "POST /admin/website/product/add/ HTTP/1.1" 302 0
+[29/Apr/2020 06:56:52] "GET /admin/website/product/add/ HTTP/1.1" 200 8948
+[29/Apr/2020 06:56:53] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 06:57:11] "GET /index/ HTTP/1.1" 200 27323
+[29/Apr/2020 06:57:24] "GET /static/images/person_2.jpg HTTP/1.1" 200 285512
+[29/Apr/2020 06:57:24] "GET /static/images/about_1.jpg HTTP/1.1" 200 120610
+[29/Apr/2020 06:57:26] "GET /landing/7/ HTTP/1.1" 200 12373
+[29/Apr/2020 06:57:28] "GET /static/images/person_3.jpg HTTP/1.1" 200 180224
+[29/Apr/2020 06:57:28] "GET /static/images/person_4.jpg HTTP/1.1" 200 286720
+[29/Apr/2020 06:57:29] "GET /static/images/img_6.jpg HTTP/1.1" 200 344064
+[29/Apr/2020 06:57:31] "GET /media/dynamicImg/project/1touch-wsilver.png HTTP/1.1" 200 20590
+[29/Apr/2020 06:57:31] "GET /media/dynamicImg/project/2touch-panel.png HTTP/1.1" 200 6979
+[29/Apr/2020 06:57:32] "GET /media/dynamicImg/project/3touch-panel.png HTTP/1.1" 200 8471
+[29/Apr/2020 06:57:32] "GET /media/dynamicImg/project/4touch-panel.png HTTP/1.1" 200 6117
+[29/Apr/2020 06:57:32] "GET /media/dynamicImg/project/ten-touchpanel.png HTTP/1.1" 200 9058
+[29/Apr/2020 06:57:32] "GET /media/dynamicImg/project/eight-touchpanel.png HTTP/1.1" 200 10363
+[29/Apr/2020 06:57:44] "GET /products/30/ HTTP/1.1" 200 7383
+[29/Apr/2020 06:57:44] "GET /media/dynamicImg/project/2touch-panel_BrFwZWf.png HTTP/1.1" 200 6979
+[29/Apr/2020 06:57:45] "GET /media/dynamicImg/project/2touch-panel_HkwyIp5.png HTTP/1.1" 200 6979
+[29/Apr/2020 06:58:22] "GET /admin/ HTTP/1.1" 200 7238
+[29/Apr/2020 06:58:25] "GET /landing/0/ HTTP/1.1" 200 29459
+[29/Apr/2020 06:58:26] "GET /media/dynamicImg/project/ir-controller-device.png HTTP/1.1" 304 0
+[29/Apr/2020 06:58:26] "GET /media/dynamicImg/project/fan-dimmer.png HTTP/1.1" 304 0
+[29/Apr/2020 06:58:26] "GET /media/dynamicImg/project/hc-mini-portable.png HTTP/1.1" 304 0
+[29/Apr/2020 06:58:26] "GET /media/dynamicImg/project/home-video-door-bell.png HTTP/1.1" 304 0
+[29/Apr/2020 06:58:27] "GET /media/dynamicImg/project/black_door_lock.png HTTP/1.1" 304 0
+[29/Apr/2020 06:58:27] "GET /media/dynamicImg/project/door-lock-800x600.png HTTP/1.1" 304 0
+[29/Apr/2020 06:58:27] "GET /media/dynamicImg/project/sensorcamera.png HTTP/1.1" 304 0
+[29/Apr/2020 06:58:28] "GET /media/dynamicImg/project/Door_Sensor.png HTTP/1.1" 304 0
+[29/Apr/2020 06:58:28] "GET /media/dynamicImg/project/Door_Sensor_EbjTBlb.png HTTP/1.1" 304 0
+[29/Apr/2020 06:58:28] "GET /media/dynamicImg/project/pebble-front-view.png HTTP/1.1" 304 0
+[29/Apr/2020 06:58:29] "GET /media/dynamicImg/project/rgbw-controller.png HTTP/1.1" 304 0
+[29/Apr/2020 06:58:29] "GET /media/dynamicImg/project/rgb_strip-800x600.png HTTP/1.1" 304 0
+[29/Apr/2020 06:58:29] "GET /media/dynamicImg/project/curtain-800x600.png HTTP/1.1" 304 0
+[29/Apr/2020 06:58:30] "GET /media/dynamicImg/project/1touch-wsilver.png HTTP/1.1" 304 0
+[29/Apr/2020 06:58:30] "GET /media/dynamicImg/project/2touch-panel.png HTTP/1.1" 304 0
+[29/Apr/2020 06:58:30] "GET /media/dynamicImg/project/3touch-panel.png HTTP/1.1" 304 0
+[29/Apr/2020 06:58:31] "GET /media/dynamicImg/project/4touch-panel.png HTTP/1.1" 304 0
+[29/Apr/2020 06:58:32] "GET /media/dynamicImg/project/HC_v2_Pack.png HTTP/1.1" 200 324120
+[29/Apr/2020 06:58:34] "GET /media/dynamicImg/project/ten-touchpanel.png HTTP/1.1" 304 0
+[29/Apr/2020 06:58:34] "GET /media/dynamicImg/project/eight-touchpanel.png HTTP/1.1" 304 0
+[29/Apr/2020 06:58:40] "GET /media/dynamicImg/project/remote.png HTTP/1.1" 200 151701
+[29/Apr/2020 06:58:41] "GET /index/ HTTP/1.1" 200 27323
+[29/Apr/2020 06:58:47] "GET /admin/website/product/ HTTP/1.1" 200 10786
+[29/Apr/2020 06:58:51] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 06:58:58] "GET /static/images/person_3.jpg HTTP/1.1" 200 228890
+[29/Apr/2020 06:58:58] "GET /static/images/person_2.jpg HTTP/1.1" 200 285512
+[29/Apr/2020 06:59:15] "GET /static/images/about_1.jpg HTTP/1.1" 200 120610
+[29/Apr/2020 06:59:19] "GET /static/images/person_4.jpg HTTP/1.1" 200 375097
+[29/Apr/2020 06:59:20] "GET /index/ HTTP/1.1" 200 27323
+[29/Apr/2020 06:59:20] "GET /static/css/jquery-ui.css HTTP/1.1" 200 21738
+[29/Apr/2020 06:59:20] "GET /static/css/owl.carousel.min.css HTTP/1.1" 200 2936
+[29/Apr/2020 06:59:20] "GET /static/css/owl.theme.default.min.css HTTP/1.1" 200 965
+[29/Apr/2020 06:59:20] "GET /static/css/jquery.fancybox.min.css HTTP/1.1" 200 12795
+[29/Apr/2020 06:59:20] "GET /static/fonts/icomoon/style.css HTTP/1.1" 200 79820
+[29/Apr/2020 06:59:20] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 177055
+[29/Apr/2020 06:59:20] "GET /static/css/bootstrap-datepicker.css HTTP/1.1" 200 17144
+[29/Apr/2020 06:59:20] "GET /static/fonts/flaticon/font/flaticon.css HTTP/1.1" 200 1330
+[29/Apr/2020 06:59:20] "GET /static/css/aos.css HTTP/1.1" 200 25983
+[29/Apr/2020 06:59:20] "GET /static/css/style.css HTTP/1.1" 200 36305
+[29/Apr/2020 06:59:20] "GET /static/images/logo.png HTTP/1.1" 200 5522
+[29/Apr/2020 06:59:20] "GET /static/js/jquery-ui.js HTTP/1.1" 200 45799
+[29/Apr/2020 06:59:21] "GET /static/js/jquery-3.3.1.min.js HTTP/1.1" 200 86926
+[29/Apr/2020 06:59:21] "GET /static/js/popper.min.js HTTP/1.1" 200 20336
+[29/Apr/2020 06:59:21] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 58072
+[29/Apr/2020 06:59:21] "GET /static/js/owl.carousel.min.js HTTP/1.1" 200 42766
+[29/Apr/2020 06:59:21] "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 200 8111
+[29/Apr/2020 06:59:21] "GET /static/js/aos.js HTTP/1.1" 200 14244
+[29/Apr/2020 06:59:21] "GET /static/js/jquery.fancybox.min.js HTTP/1.1" 200 68196
+[29/Apr/2020 06:59:21] "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 200 9029
+[29/Apr/2020 06:59:21] "GET /static/js/jquery.animateNumber.min.js HTTP/1.1" 200 1391
+[29/Apr/2020 06:59:21] "GET /static/js/jquery.sticky.js HTTP/1.1" 200 10084
+[29/Apr/2020 06:59:21] "GET /static/js/main.js HTTP/1.1" 200 8603
+[29/Apr/2020 06:59:21] "GET /static/images/img_5.jpg HTTP/1.1" 200 32781
+[29/Apr/2020 06:59:21] "GET /static/images/img_7.jpg HTTP/1.1" 200 99392
+[29/Apr/2020 06:59:21] "GET /static/images/img_8.jpg HTTP/1.1" 200 231834
+[29/Apr/2020 06:59:21] "GET /static/fonts/icomoon/fonts/icomoon.ttf?10si43 HTTP/1.1" 200 307168
+[29/Apr/2020 06:59:21] "GET /static/images/person_2.jpg HTTP/1.1" 200 285512
+[29/Apr/2020 06:59:21] "GET /static/images/person_3.jpg HTTP/1.1" 200 228890
+[29/Apr/2020 06:59:21] "GET /static/images/img_6.jpg HTTP/1.1" 200 481844
+[29/Apr/2020 06:59:22] "GET /static/images/about_1.jpg HTTP/1.1" 200 120610
+[29/Apr/2020 06:59:22] "GET /static/images/person_4.jpg HTTP/1.1" 200 375097
+[29/Apr/2020 06:59:26] "GET /static/images/img_6.jpg HTTP/1.1" 200 481844
+[29/Apr/2020 06:59:27] "GET /index/ HTTP/1.1" 200 27323
+[29/Apr/2020 06:59:32] "GET /landing/0/ HTTP/1.1" 200 29459
+[29/Apr/2020 06:59:32] "GET /media/dynamicImg/project/8node-1-800x600_X8CvAGp.jpg HTTP/1.1" 200 45019
+[29/Apr/2020 06:59:32] "GET /media/dynamicImg/project/4node-1-800x600_eBLmqZJ.jpg HTTP/1.1" 200 55288
+[29/Apr/2020 06:59:32] "GET /media/dynamicImg/project/2-Node-Edit-1-1-600x600_Z35suvi.png HTTP/1.1" 200 42341
+[29/Apr/2020 06:59:32] "GET /media/dynamicImg/project/1-1-800x600.png HTTP/1.1" 200 65889
+[29/Apr/2020 06:59:32] "GET /media/dynamicImg/project/61PVIzk6ALL._SL1104__idFSsug.jpg HTTP/1.1" 200 115395
+[29/Apr/2020 06:59:32] "GET /media/dynamicImg/project/pert_plug_2-800x600.png HTTP/1.1" 200 259222
+[29/Apr/2020 06:59:32] "GET /media/dynamicImg/project/threeinone-insert_AQQhiVU.png HTTP/1.1" 200 34375
+[29/Apr/2020 06:59:32] "GET /media/dynamicImg/project/fan-dimmer.png HTTP/1.1" 200 49335
+[29/Apr/2020 06:59:32] "GET /media/dynamicImg/project/ir-controller-device.png HTTP/1.1" 200 27727
+[29/Apr/2020 06:59:33] "GET /media/dynamicImg/project/hc-mini-portable.png HTTP/1.1" 200 31900
+[29/Apr/2020 06:59:33] "GET /media/dynamicImg/project/home-video-door-bell.png HTTP/1.1" 200 64771
+[29/Apr/2020 06:59:33] "GET /media/dynamicImg/project/black_door_lock.png HTTP/1.1" 200 44529
+[29/Apr/2020 06:59:33] "GET /media/dynamicImg/project/sensorcamera.png HTTP/1.1" 200 43867
+[29/Apr/2020 06:59:33] "GET /media/dynamicImg/project/HC_v2_Pack.png HTTP/1.1" 200 324120
+[29/Apr/2020 06:59:33] "GET /media/dynamicImg/project/Door_Sensor.png HTTP/1.1" 200 89819
+[29/Apr/2020 06:59:33] "GET /media/dynamicImg/project/Door_Sensor_EbjTBlb.png HTTP/1.1" 200 89819
+[29/Apr/2020 06:59:33] "GET /media/dynamicImg/project/door-lock-800x600.png HTTP/1.1" 200 173746
+[29/Apr/2020 06:59:33] "GET /media/dynamicImg/project/rgbw-controller.png HTTP/1.1" 200 51224
+[29/Apr/2020 06:59:34] "GET /media/dynamicImg/project/1touch-wsilver.png HTTP/1.1" 200 20590
+[29/Apr/2020 06:59:34] "GET /media/dynamicImg/project/pebble-front-view.png HTTP/1.1" 200 341821
+[29/Apr/2020 06:59:34] "GET /media/dynamicImg/project/rgb_strip-800x600.png HTTP/1.1" 200 311043
+[29/Apr/2020 06:59:34] "GET /media/dynamicImg/project/curtain-800x600.png HTTP/1.1" 200 110245
+[29/Apr/2020 06:59:34] "GET /media/dynamicImg/project/remote.png HTTP/1.1" 200 151701
+[29/Apr/2020 06:59:34] "GET /media/dynamicImg/project/2touch-panel.png HTTP/1.1" 200 6979
+[29/Apr/2020 06:59:34] "GET /media/dynamicImg/project/3touch-panel.png HTTP/1.1" 200 8471
+[29/Apr/2020 06:59:34] "GET /media/dynamicImg/project/4touch-panel.png HTTP/1.1" 200 6117
+[29/Apr/2020 06:59:34] "GET /media/dynamicImg/project/eight-touchpanel.png HTTP/1.1" 200 10363
+[29/Apr/2020 06:59:35] "GET /media/dynamicImg/project/ten-touchpanel.png HTTP/1.1" 200 9058
+[29/Apr/2020 07:00:00] "POST /admin/website/product/ HTTP/1.1" 200 3414
+[29/Apr/2020 07:00:00] "GET /static/admin/js/cancel.js HTTP/1.1" 200 204
+[29/Apr/2020 07:00:02] "POST /admin/website/product/ HTTP/1.1" 302 0
+[29/Apr/2020 07:00:03] "GET /admin/website/product/ HTTP/1.1" 200 10695
+[29/Apr/2020 07:00:03] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 07:00:05] "GET /index/ HTTP/1.1" 200 27323
+[29/Apr/2020 07:00:11] "GET /admin/website/product/ HTTP/1.1" 200 10560
+[29/Apr/2020 07:00:15] "GET /admin/website/ HTTP/1.1" 200 2870
+[29/Apr/2020 07:00:19] "GET /admin/website/category/ HTTP/1.1" 200 5856
+[29/Apr/2020 07:00:19] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 07:00:19] "GET /index/ HTTP/1.1" 200 27323
+[29/Apr/2020 07:00:34] "POST /admin/website/category/ HTTP/1.1" 200 3422
+[29/Apr/2020 07:00:35] "POST /admin/website/category/ HTTP/1.1" 302 0
+[29/Apr/2020 07:00:35] "GET /admin/website/category/ HTTP/1.1" 200 5766
+[29/Apr/2020 07:00:36] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 07:00:55] "GET /index/ HTTP/1.1" 200 27219
+[29/Apr/2020 07:01:00] "GET /admin/website/category/add/ HTTP/1.1" 200 5534
+[29/Apr/2020 07:01:01] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 07:01:04] "GET /admin/website/category/ HTTP/1.1" 200 5630
+[29/Apr/2020 07:01:10] "GET /landing/6/ HTTP/1.1" 200 16418
+[29/Apr/2020 07:01:14] "GET /media/dynamicImg/project/remote.png HTTP/1.1" 200 151701
+[29/Apr/2020 07:01:20] "GET /admin/website/category/ HTTP/1.1" 200 5630
+[29/Apr/2020 07:01:34] "GET /admin/website/ HTTP/1.1" 200 2870
+[29/Apr/2020 07:01:40] "GET /admin/website/category/ HTTP/1.1" 200 5630
+[29/Apr/2020 07:01:41] "GET /admin/jsi18n/ HTTP/1.1" 200 3185
+[29/Apr/2020 07:01:51] "GET /index/ HTTP/1.1" 200 27219
+[29/Apr/2020 07:02:01] "GET /landing/2/ HTTP/1.1" 200 10827
+[29/Apr/2020 07:02:01] "GET /media/dynamicImg/project/pebble-front-view.png HTTP/1.1" 304 0
+[29/Apr/2020 07:02:01] "GET /media/dynamicImg/project/rgbw-controller.png HTTP/1.1" 304 0
+[29/Apr/2020 07:02:01] "GET /media/dynamicImg/project/rgb_strip-800x600.png HTTP/1.1" 304 0
+[29/Apr/2020 07:02:01] "GET /media/dynamicImg/project/curtain-800x600.png HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[29/Apr/2020 07:05:46] "GET /favicon.ico HTTP/1.1" 404 2794
+[29/Apr/2020 08:00:53] code 400, message Bad request syntax ('\x16\x03\x01\x00u\x01\x00\x00q\x03\x03\ti¯iÏÖ¼\x90hßº¦\x16^o²\x18å\x94\x16¨\x03AÍþð"\x1dDv>\x1b\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À')
+[29/Apr/2020 08:00:53] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[29/Apr/2020 08:23:02] "GET /admin/logout/ HTTP/1.1" 200 1215
+[29/Apr/2020 08:23:02] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[29/Apr/2020 08:23:02] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[29/Apr/2020 08:48:19] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[29/Apr/2020 08:48:19] "  /*à     Cookie: mstshash=Administr" 400 -
+[29/Apr/2020 10:18:14] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[29/Apr/2020 10:18:14] "  /*à     Cookie: mstshash=Administr" 400 -
+[29/Apr/2020 10:44:51] "GET /admin/logout/ HTTP/1.1" 302 0
+[29/Apr/2020 10:44:51] "GET /admin/ HTTP/1.1" 302 0
+[29/Apr/2020 10:44:51] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1855
+Not Found: /favicon.ico
+[29/Apr/2020 10:44:53] "GET /favicon.ico HTTP/1.1" 404 2790
+Invalid HTTP_HOST header: 'ip.ws.126.net:443'. You may need to add 'ip.ws.126.net' to ALLOWED_HOSTS.
+[29/Apr/2020 11:02:44] "CONNECT ip.ws.126.net:443 HTTP/1.1" 400 59708
+[29/Apr/2020 13:39:47] "GET /index/ HTTP/1.1" 200 27219
+[29/Apr/2020 13:39:48] "GET /static/fonts/icomoon/style.css HTTP/1.1" 200 79820
+[29/Apr/2020 13:40:08] "GET /static/css/jquery-ui.css HTTP/1.1" 200 21738
+[29/Apr/2020 13:40:08] "GET /static/css/owl.carousel.min.css HTTP/1.1" 200 2936
+[29/Apr/2020 13:40:09] "GET /static/css/owl.theme.default.min.css HTTP/1.1" 200 965
+[29/Apr/2020 13:40:09] "GET /static/css/jquery.fancybox.min.css HTTP/1.1" 200 12795
+[29/Apr/2020 13:40:09] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 177055
+[29/Apr/2020 13:40:09] "GET /static/css/bootstrap-datepicker.css HTTP/1.1" 200 17144
+[29/Apr/2020 13:40:30] "GET /static/fonts/flaticon/font/flaticon.css HTTP/1.1" 200 1330
+[29/Apr/2020 13:40:30] "GET /static/css/aos.css HTTP/1.1" 200 25983
+[29/Apr/2020 13:40:30] "GET /static/css/style.css HTTP/1.1" 200 36305
+[29/Apr/2020 13:40:30] "GET /static/js/jquery-ui.js HTTP/1.1" 200 45799
+[29/Apr/2020 13:40:30] "GET /static/js/jquery-3.3.1.min.js HTTP/1.1" 200 86926
+[29/Apr/2020 13:40:30] "GET /static/js/popper.min.js HTTP/1.1" 200 20336
+[29/Apr/2020 13:40:51] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 58072
+[29/Apr/2020 13:40:51] "GET /static/js/owl.carousel.min.js HTTP/1.1" 200 42766
+[29/Apr/2020 13:40:51] "GET /static/fonts/icomoon/fonts/icomoon.ttf?10si43 HTTP/1.1" 200 307168
+[29/Apr/2020 13:40:51] "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 200 8111
+[29/Apr/2020 13:40:51] "GET /static/js/aos.js HTTP/1.1" 200 14244
+[29/Apr/2020 13:40:52] "GET /static/js/jquery.fancybox.min.js HTTP/1.1" 200 68196
+[29/Apr/2020 13:41:13] "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 200 9029
+[29/Apr/2020 13:41:13] "GET /static/js/jquery.animateNumber.min.js HTTP/1.1" 200 1391
+[29/Apr/2020 13:41:13] "GET /static/js/jquery.sticky.js HTTP/1.1" 200 10084
+[29/Apr/2020 13:41:13] "GET /static/js/main.js HTTP/1.1" 200 8603
+[29/Apr/2020 13:41:13] "GET /static/images/logo.png HTTP/1.1" 200 5522
+[29/Apr/2020 13:41:13] "GET /static/images/img_5.jpg HTTP/1.1" 200 32781
+[29/Apr/2020 13:41:34] "GET /landing/6/ HTTP/1.1" 200 16418
+[29/Apr/2020 13:41:34] "GET /static/images/img_6.jpg HTTP/1.1" 200 81920
+[29/Apr/2020 13:41:34] "GET /media/dynamicImg/project/8node-1-800x600_X8CvAGp.jpg HTTP/1.1" 200 45019
+[29/Apr/2020 13:41:34] "GET /static/images/img_7.jpg HTTP/1.1" 200 81920
+[29/Apr/2020 13:41:34] "GET /media/dynamicImg/project/4node-1-800x600_eBLmqZJ.jpg HTTP/1.1" 200 55288
+[29/Apr/2020 13:41:34] "GET /media/dynamicImg/project/2-Node-Edit-1-1-600x600_Z35suvi.png HTTP/1.1" 200 42341
+[29/Apr/2020 13:41:55] "GET /media/dynamicImg/project/1-1-800x600.png HTTP/1.1" 200 65889
+[29/Apr/2020 13:41:55] "GET /media/dynamicImg/project/threeinone-insert_AQQhiVU.png HTTP/1.1" 200 34375
+[29/Apr/2020 13:41:55] "GET /media/dynamicImg/project/pert_plug_2-800x600.png HTTP/1.1" 200 259222
+[29/Apr/2020 13:41:55] "GET /media/dynamicImg/project/ir-controller-device.png HTTP/1.1" 200 27727
+[29/Apr/2020 13:41:55] "GET /media/dynamicImg/project/fan-dimmer.png HTTP/1.1" 200 49335
+[29/Apr/2020 13:41:56] "GET /media/dynamicImg/project/HC_v2_Pack.png HTTP/1.1" 200 324120
+[29/Apr/2020 13:42:17] "GET /media/dynamicImg/project/hc-mini-portable.png HTTP/1.1" 200 31900
+[29/Apr/2020 13:42:17] "GET /media/dynamicImg/project/remote.png HTTP/1.1" 200 151701
+Not Found: /favicon.ico
+[29/Apr/2020 13:42:38] "GET /favicon.ico HTTP/1.1" 404 2790
+[29/Apr/2020 13:44:16] "GET /index/ HTTP/1.1" 200 27219
+[29/Apr/2020 13:44:17] "GET /static/images/img_6.jpg HTTP/1.1" 200 481844
+[29/Apr/2020 13:44:37] "GET /static/images/img_7.jpg HTTP/1.1" 200 99392
+[29/Apr/2020 13:44:37] "GET /static/images/img_8.jpg HTTP/1.1" 200 231834
+[29/Apr/2020 13:44:38] "GET /static/images/person_2.jpg HTTP/1.1" 200 285512
+[29/Apr/2020 13:44:39] "GET /static/images/person_3.jpg HTTP/1.1" 200 228890
+[29/Apr/2020 13:44:59] "GET /static/images/about_1.jpg HTTP/1.1" 200 120610
+[29/Apr/2020 13:44:59] "GET /static/images/person_4.jpg HTTP/1.1" 200 375097
+----------------------------------------
+Exception happened during processing of request from ('134.169.109.83', 61613)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/site-packages/django/core/servers/basehttp.py", line 139, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+[29/Apr/2020 23:22:10] "GET / HTTP/1.1" 200 27219
+[30/Apr/2020 01:50:46] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[30/Apr/2020 01:50:46] "    c                           " 400 -
+[30/Apr/2020 02:14:05] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[30/Apr/2020 02:14:05] "    c                           " 400 -
+[30/Apr/2020 02:14:24] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[30/Apr/2020 02:14:24] "    c                           " 400 -
+[30/Apr/2020 03:42:43] "GET / HTTP/1.1" 200 27219
+Invalid HTTP_HOST header: 'ip.ws.126.net:443'. You may need to add 'ip.ws.126.net' to ALLOWED_HOSTS.
+[30/Apr/2020 04:21:14] "CONNECT ip.ws.126.net:443 HTTP/1.1" 400 59708
+[30/Apr/2020 10:11:49] "GET /index/ HTTP/1.1" 200 27219
+Not Found: /favicon.ico
+[30/Apr/2020 10:12:39] "GET /favicon.ico HTTP/1.1" 404 2794
+Not Found: /favicon.ico
+[30/Apr/2020 10:29:15] "GET /favicon.ico HTTP/1.1" 404 2794
+[30/Apr/2020 12:37:45] "GET /index/ HTTP/1.1" 200 27219
+Not Found: /favicon.ico
+[30/Apr/2020 12:38:36] "GET /favicon.ico HTTP/1.1" 404 2794
+[30/Apr/2020 21:20:24] "GET / HTTP/1.1" 200 27219
+[30/Apr/2020 22:39:50] "GET / HTTP/1.1" 200 27219
+[01/May/2020 04:53:10] "GET / HTTP/1.1" 200 27219
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+[01/May/2020 06:05:34] "CONNECT www.baidu.com:443 HTTP/1.0" 400 59989
+[01/May/2020 08:46:17] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[01/May/2020 08:46:17] "  /*à     Cookie: mstshash=Administr" 400 -
+[01/May/2020 10:07:15] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[01/May/2020 10:07:15] "  /*à     Cookie: mstshash=Administr" 400 -
+[01/May/2020 11:27:49] "GET /index/ HTTP/1.1" 200 27219
+Not Found: /favicon.ico
+[01/May/2020 11:28:39] "GET /favicon.ico HTTP/1.1" 404 2794
+[01/May/2020 11:30:45] "GET /index/ HTTP/1.1" 200 27219
+Not Found: /favicon.ico
+[01/May/2020 11:31:36] "GET /favicon.ico HTTP/1.1" 404 2794
+[01/May/2020 11:36:26] "GET /index/ HTTP/1.1" 200 27219
+Not Found: /favicon.ico
+[01/May/2020 11:48:07] "GET /favicon.ico HTTP/1.1" 404 2794
+Invalid HTTP_HOST header: 'ip-172-31-6-119.ap-south-1.compute.internal:8000'. You may need to add 'ip-172-31-6-119.ap-south-1.compute.internal' to ALLOWED_HOSTS.
+[01/May/2020 12:08:26] "GET / HTTP/1.0" 400 59918
+----------------------------------------
+Exception happened during processing of request from ('104.152.52.21', 51102)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/site-packages/django/core/servers/basehttp.py", line 139, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+[01/May/2020 17:07:26] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[01/May/2020 17:07:26] "  /*à     Cookie: mstshash=Administr" 400 -
+[01/May/2020 21:27:43] "GET / HTTP/1.1" 200 27219
+[01/May/2020 21:50:02] "GET / HTTP/1.1" 200 27219
+[01/May/2020 23:07:43] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[01/May/2020 23:07:43] "  /*à     Cookie: mstshash=Administr" 400 -
+----------------------------------------
+Exception happened during processing of request from ('87.251.75.254', 46602)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/site-packages/django/core/servers/basehttp.py", line 139, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+[02/May/2020 08:03:48] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[02/May/2020 08:03:48] "  /*à     Cookie: mstshash=Administr" 400 -
+[02/May/2020 08:03:48] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[02/May/2020 08:03:48] "  /*à     Cookie: mstshash=Administr" 400 -
+Invalid HTTP_HOST header: 'ip-172-31-6-119.ap-south-1.compute.internal:8000'. You may need to add 'ip-172-31-6-119.ap-south-1.compute.internal' to ALLOWED_HOSTS.
+[02/May/2020 11:24:48] "GET / HTTP/1.0" 400 59666
+[02/May/2020 15:35:10] "GET / HTTP/1.1" 200 27219
+[02/May/2020 19:17:33] code 400, message Bad HTTP/0.9 request type ('\x01\x01\x00\x01\x00\x08\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x01\x04\x00\x01\x02Û\x05\x00')
+[02/May/2020 19:17:33] "            Û 	 wPHP_VALUEallow_url_include=1" 400 -
+[02/May/2020 20:41:10] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[02/May/2020 20:41:10] "    c                           " 400 -
+[02/May/2020 21:31:31] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[02/May/2020 21:31:31] "  /*à     Cookie: mstshash=Administr" 400 -
+[03/May/2020 01:01:58] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[03/May/2020 01:01:58] "  /*à     Cookie: mstshash=Administr" 400 -
+[03/May/2020 01:14:58] "GET / HTTP/1.1" 200 27219
+[03/May/2020 03:30:31] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[03/May/2020 03:30:31] "  /*à     Cookie: mstshash=Administr" 400 -
+[03/May/2020 10:49:24] code 400, message Bad request syntax ('\x16\x03\x01\x00u\x01\x00\x00q\x03\x03\x18l7PëÃ\x06\x05_&»©øA»\x0c¼\x1aÝ\x10]\x0c\xadÏ,\x88¼¯Â\x91\x9aã\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À')
+[03/May/2020 10:49:24] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[03/May/2020 14:14:07] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[03/May/2020 14:14:07] "  /*à     Cookie: mstshash=Administr" 400 -
+[03/May/2020 15:07:16] "GET / HTTP/1.1" 200 27219
+Invalid HTTP_HOST header: 'ip.ws.126.net:443'. You may need to add 'ip.ws.126.net' to ALLOWED_HOSTS.
+[03/May/2020 16:59:04] "CONNECT ip.ws.126.net:443 HTTP/1.1" 400 59707
+[04/May/2020 00:32:24] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[04/May/2020 00:32:24] "    c                           " 400 -
+[04/May/2020 04:59:17] "GET / HTTP/1.1" 200 27219
+[04/May/2020 05:04:05] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[04/May/2020 05:04:05] "  /*à     Cookie: mstshash=Administr" 400 -
+[04/May/2020 06:20:44] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[04/May/2020 06:20:44] "  /*à     Cookie: mstshash=Administr" 400 -
+[04/May/2020 07:33:25] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[04/May/2020 07:33:25] "    c                           " 400 -
+[04/May/2020 07:42:17] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[04/May/2020 07:42:17] "    c                           " 400 -
+[04/May/2020 07:42:40] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[04/May/2020 07:42:40] "    c                           " 400 -
+----------------------------------------
+Exception happened during processing of request from ('45.132.105.32', 59173)
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/socketserver.py", line 654, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.6/socketserver.py", line 364, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.6/socketserver.py", line 724, in __init__
+    self.handle()
+  File "/usr/lib/python3.6/site-packages/django/core/servers/basehttp.py", line 139, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.6/socket.py", line 586, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+Invalid HTTP_HOST header: 'ip.ws.126.net:443'. You may need to add 'ip.ws.126.net' to ALLOWED_HOSTS.
+[04/May/2020 08:51:25] "CONNECT ip.ws.126.net:443 HTTP/1.1" 400 59707
+[04/May/2020 09:07:04] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[04/May/2020 09:07:04] "  /*à     Cookie: mstshash=Administr" 400 -
+[04/May/2020 11:06:23] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[04/May/2020 11:06:23] "    c                           " 400 -
+[04/May/2020 11:54:46] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[04/May/2020 11:54:46] "    c                           " 400 -
+[04/May/2020 12:04:13] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[04/May/2020 12:04:13] "    c                           " 400 -
+[04/May/2020 12:26:01] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[04/May/2020 12:26:01] "    c                           " 400 -
+[04/May/2020 13:43:40] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[04/May/2020 13:43:40] "    c                           " 400 -
+Invalid HTTP_HOST header: 'check2.zennolab.com'. You may need to add 'check2.zennolab.com' to ALLOWED_HOSTS.
+[04/May/2020 15:53:35] "GET http://check2.zennolab.com/proxy.php HTTP/1.1" 400 61274
+Invalid HTTP_HOST header: 'check2.zennolab.com'. You may need to add 'check2.zennolab.com' to ALLOWED_HOSTS.
+[04/May/2020 16:29:12] "GET http://check2.zennolab.com/proxy.php HTTP/1.1" 400 61274
+[04/May/2020 18:07:30] "GET / HTTP/1.1" 200 27219
+Invalid HTTP_HOST header: 'check2.zennolab.com'. You may need to add 'check2.zennolab.com' to ALLOWED_HOSTS.
+[04/May/2020 18:34:55] "GET http://check2.zennolab.com/proxy.php HTTP/1.1" 400 61274
+Invalid HTTP_HOST header: 'check2.zennolab.com'. You may need to add 'check2.zennolab.com' to ALLOWED_HOSTS.
+[04/May/2020 20:57:40] "GET http://check2.zennolab.com/proxy.php HTTP/1.1" 400 61274
+[04/May/2020 22:13:13] "GET / HTTP/1.1" 200 27219
+Invalid HTTP_HOST header: 'chekfast.zennolab.com'. You may need to add 'chekfast.zennolab.com' to ALLOWED_HOSTS.
+[04/May/2020 23:21:23] "GET http://chekfast.zennolab.com/proxy.php HTTP/1.1" 400 61326
+[05/May/2020 01:36:24] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[05/May/2020 01:36:24] "  /*à     Cookie: mstshash=Administr" 400 -
+Invalid HTTP_HOST header: 'check2.zennolab.com'. You may need to add 'check2.zennolab.com' to ALLOWED_HOSTS.
+[05/May/2020 01:46:50] "GET http://check2.zennolab.com/proxy.php HTTP/1.1" 400 61274
+[05/May/2020 03:29:40] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[05/May/2020 03:29:40] "    c                           " 400 -
+[05/May/2020 03:30:33] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[05/May/2020 03:30:33] "    c                           " 400 -
+Invalid HTTP_HOST header: 'check2.zennolab.com'. You may need to add 'check2.zennolab.com' to ALLOWED_HOSTS.
+[05/May/2020 04:15:16] "GET http://check2.zennolab.com/proxy.php HTTP/1.1" 400 61274
+[05/May/2020 04:32:19] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[05/May/2020 04:32:19] "    c                           " 400 -
+Invalid HTTP_HOST header: 'chek.zennolab.com'. You may need to add 'chek.zennolab.com' to ALLOWED_HOSTS.
+[05/May/2020 06:42:44] "GET http://chek.zennolab.com/proxy.php HTTP/1.1" 400 61222
+Invalid HTTP_HOST header: 'check2.zennolab.com'. You may need to add 'check2.zennolab.com' to ALLOWED_HOSTS.
+[05/May/2020 09:11:01] "GET http://check2.zennolab.com/proxy.php HTTP/1.1" 400 61274
+[05/May/2020 09:19:08] "GET / HTTP/1.1" 200 27219
+[05/May/2020 09:40:15] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[05/May/2020 09:40:15] "    c                           " 400 -
+[05/May/2020 10:05:43] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[05/May/2020 10:05:43] "  /*à     Cookie: mstshash=Administr" 400 -
+[05/May/2020 11:18:18] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[05/May/2020 11:18:18] "  /*à     Cookie: mstshash=Administr" 400 -
+Invalid HTTP_HOST header: 'check2.zennolab.com'. You may need to add 'check2.zennolab.com' to ALLOWED_HOSTS.
+[05/May/2020 11:38:47] "GET http://check2.zennolab.com/proxy.php HTTP/1.1" 400 61274
+Invalid HTTP_HOST header: 'check2.zennolab.com'. You may need to add 'check2.zennolab.com' to ALLOWED_HOSTS.
+[05/May/2020 14:07:39] "GET http://check2.zennolab.com/proxy.php HTTP/1.1" 400 61274
+Invalid HTTP_HOST header: 'check2.zennolab.com'. You may need to add 'check2.zennolab.com' to ALLOWED_HOSTS.
+[05/May/2020 16:35:52] "GET http://check2.zennolab.com/proxy.php HTTP/1.1" 400 61274
+[05/May/2020 16:41:49] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[05/May/2020 16:41:49] "  /*à     Cookie: mstshash=Administr" 400 -
+[05/May/2020 16:54:33] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[05/May/2020 16:54:33] "  /*à     Cookie: mstshash=Administr" 400 -
+[05/May/2020 16:55:41] "GET / HTTP/1.1" 200 27219
+Invalid HTTP_HOST header: 'check2.zennolab.com'. You may need to add 'check2.zennolab.com' to ALLOWED_HOSTS.
+[05/May/2020 19:04:17] "GET http://check2.zennolab.com/proxy.php HTTP/1.1" 400 61274
+Invalid HTTP_HOST header: 'chek.zennolab.com'. You may need to add 'chek.zennolab.com' to ALLOWED_HOSTS.
+[05/May/2020 21:31:45] "GET http://chek.zennolab.com/proxy.php HTTP/1.1" 400 61222
+[05/May/2020 22:07:16] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[05/May/2020 22:07:16] "  /*à     Cookie: mstshash=Administr" 400 -
+Invalid HTTP_HOST header: 'check2.zennolab.com'. You may need to add 'check2.zennolab.com' to ALLOWED_HOSTS.
+[05/May/2020 23:58:36] "GET http://check2.zennolab.com/proxy.php HTTP/1.1" 400 61274
+[06/May/2020 00:59:57] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[06/May/2020 00:59:57] "  /*à     Cookie: mstshash=Administr" 400 -
+[06/May/2020 01:21:38] "GET / HTTP/1.1" 200 27219
+Invalid HTTP_HOST header: 'check2.zennolab.com'. You may need to add 'check2.zennolab.com' to ALLOWED_HOSTS.
+[06/May/2020 02:26:35] "GET http://check2.zennolab.com/proxy.php HTTP/1.1" 400 61274
+[06/May/2020 03:30:59] "GET / HTTP/1.1" 200 27219
+Invalid HTTP_HOST header: 'check2.zennolab.com'. You may need to add 'check2.zennolab.com' to ALLOWED_HOSTS.
+[06/May/2020 04:55:01] "GET http://check2.zennolab.com/proxy.php HTTP/1.1" 400 61274
+[06/May/2020 06:26:19] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[06/May/2020 06:26:19] "  /*à     Cookie: mstshash=Administr" 400 -
+[06/May/2020 06:48:07] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[06/May/2020 06:48:07] "  /*à     Cookie: mstshash=Administr" 400 -
+[06/May/2020 07:12:11] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[06/May/2020 07:12:11] "  /*à     Cookie: mstshash=Administr" 400 -
+Invalid HTTP_HOST header: 'chekfast.zennolab.com'. You may need to add 'chekfast.zennolab.com' to ALLOWED_HOSTS.
+[06/May/2020 07:23:37] "GET http://chekfast.zennolab.com/proxy.php HTTP/1.1" 400 61326
+[06/May/2020 07:34:03] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[06/May/2020 07:34:03] "  /*à     Cookie: mstshash=Administr" 400 -
+[06/May/2020 09:14:55] "GET /index/ HTTP/1.1" 200 27219
+Not Found: /favicon.ico
+[06/May/2020 09:15:46] "GET /favicon.ico HTTP/1.1" 404 2794
+Invalid HTTP_HOST header: 'chekfast.zennolab.com'. You may need to add 'chekfast.zennolab.com' to ALLOWED_HOSTS.
+[06/May/2020 09:52:08] "GET http://chekfast.zennolab.com/proxy.php HTTP/1.1" 400 61326
+[06/May/2020 09:52:14] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[06/May/2020 09:52:14] "  /*à     Cookie: mstshash=Administr" 400 -
+[06/May/2020 10:10:02] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[06/May/2020 10:10:02] "  /*à     Cookie: mstshash=Administr" 400 -
+[06/May/2020 12:00:58] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[06/May/2020 12:00:58] "  /*à     Cookie: mstshash=Administr" 400 -
+Invalid HTTP_HOST header: 'check2.zennolab.com'. You may need to add 'check2.zennolab.com' to ALLOWED_HOSTS.
+[06/May/2020 12:21:02] "GET http://check2.zennolab.com/proxy.php HTTP/1.1" 400 61274
+[06/May/2020 12:51:13] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[06/May/2020 12:51:13] "    c                           " 400 -
+[06/May/2020 13:35:54] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[06/May/2020 13:35:54] "  /*à     Cookie: mstshash=Administr" 400 -
+Not Found: /favicon.ico
+[06/May/2020 13:36:05] "GET /favicon.ico HTTP/1.1" 404 2790
+[06/May/2020 14:09:23] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[06/May/2020 14:09:23] "  /*à     Cookie: mstshash=Administr" 400 -
+Invalid HTTP_HOST header: 'check2.zennolab.com'. You may need to add 'check2.zennolab.com' to ALLOWED_HOSTS.
+[06/May/2020 14:49:27] "GET http://check2.zennolab.com/proxy.php HTTP/1.1" 400 61274
+Invalid HTTP_HOST header: 'chekfast.zennolab.com'. You may need to add 'chekfast.zennolab.com' to ALLOWED_HOSTS.
+[06/May/2020 17:18:12] "GET http://chekfast.zennolab.com/proxy.php HTTP/1.1" 400 61326
+Invalid HTTP_HOST header: 'ip-172-31-6-119.ap-south-1.compute.internal:8000'. You may need to add 'ip-172-31-6-119.ap-south-1.compute.internal' to ALLOWED_HOSTS.
+[06/May/2020 18:14:41] "GET / HTTP/1.0" 400 59667
+[06/May/2020 18:14:43] code 400, message Bad HTTP/0.9 request type ('l\x00')
+[06/May/2020 18:14:43] "l          " 400 -
+[2020-05-06 18:14:43,722] - Broken pipe from ('134.122.111.144', 51206)
+
+Invalid HTTP_HOST header: 'ip-172-31-6-119.ap-south-1.compute.internal:8000'. You may need to add 'ip-172-31-6-119.ap-south-1.compute.internal' to ALLOWED_HOSTS.
+[06/May/2020 18:14:43] "GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0" 400 59976
+[06/May/2020 18:14:44] code 400, message Bad request syntax ('\x05\x04\x00\x01\x02\x80\x05\x01\x00\x03')
+[06/May/2020 18:14:44] "  " 400 -
+[06/May/2020 18:14:46] code 400, message Bad request syntax ('\x04\x01\x00\x16\x7f\x00\x00\x01root\x00')
+[06/May/2020 18:14:46] "   root " 400 -
+[2020-05-06 18:14:46,211] - Broken pipe from ('134.122.111.144', 53192)
+
+[06/May/2020 18:14:46] code 400, message Bad request syntax ('#ST')
+[06/May/2020 18:14:46] "#ST" 400 -
+[06/May/2020 18:14:48] code 400, message Bad HTTP/0.9 request type ('\x00')
+[06/May/2020 18:14:48] " n    beio" 400 -
+[2020-05-06 18:14:48,266] - Broken pipe from ('134.122.111.144', 54732)
+
+[06/May/2020 18:14:49] code 400, message Bad request syntax ('\x00\x00\x07\x00\x08\x00\x03\x00\x04\x00\x05\x00\x06')
+[06/May/2020 18:14:49] "       " 400 -
+[2020-05-06 18:14:49,939] - Broken pipe from ('134.122.111.144', 56006)
+
+Invalid HTTP_HOST header: 'ip-172-31-6-119.ap-south-1.compute.internal:8000'. You may need to add 'ip-172-31-6-119.ap-south-1.compute.internal' to ALLOWED_HOSTS.
+[06/May/2020 18:14:50] "OPTIONS / HTTP/1.0" 400 59695
+[06/May/2020 18:14:50] code 400, message Bad request version ('RTSP/1.0')
+[06/May/2020 18:14:50] "OPTIONS / RTSP/1.0" 400 -
+[06/May/2020 18:14:52] code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[06/May/2020 18:14:52] "  (rþ          |                    " 400 -
+[2020-05-06 18:14:52,476] - Broken pipe from ('134.122.111.144', 57834)
+
+[06/May/2020 18:14:54] code 400, message Bad HTTP/0.9 request type ('\x00')
+[06/May/2020 18:14:54] "          versionbind   " 400 -
+[2020-05-06 18:14:54,154] - Broken pipe from ('134.122.111.144', 59100)
+
+[06/May/2020 18:14:55] code 400, message Bad HTTP/0.9 request type ('\x00')
+[06/May/2020 18:14:55] "            " 400 -
+[2020-05-06 18:14:55,850] - Broken pipe from ('134.122.111.144', 60346)
+
+[06/May/2020 18:14:56] code 400, message Bad request syntax ('HELP')
+[06/May/2020 18:14:56] "HELP" 400 -
+[06/May/2020 18:14:56] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00')
+[06/May/2020 18:14:56] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[06/May/2020 18:14:56] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%à\x00\x00\x00\x00\x00Cookie:')
+[06/May/2020 18:14:56] "  *%à     Cookie: mstshash=beio" 400 -
+[06/May/2020 18:14:57] code 400, message Bad request version ('\x00/\x00')
+[06/May/2020 18:14:57] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[06/May/2020 18:14:57] code 400, message Bad request syntax ('\x00\x00\x00qj\x81n0\x81k¡\x03\x02\x01\x05¢\x03\x02\x01')
+[06/May/2020 18:14:57] "   qjn0k¡¢" 400 -
+[06/May/2020 18:14:59] code 400, message Bad request syntax ('\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00')
+[06/May/2020 18:14:59] "   ¤ÿSMBr    @              @     PC NETWORK PROGRAM 1.0 MICROSOFT NETWORKS 1.03 MICROSOFT NETWORKS 3.0 LANMAN1.0 LM1.2X002 Samba NT LANMAN 1.0 NT LM 0.12 " 400 -
+[2020-05-06 18:14:59,470] - Broken pipe from ('134.122.111.144', 34794)
+
+[06/May/2020 18:14:59] code 400, message Bad request syntax ('\x01default')
+[06/May/2020 18:14:59] "default" 400 -
+[06/May/2020 18:15:00] code 400, message Bad request syntax ('0\x84\x00\x00\x00-\x02\x01\x07c\x84\x00\x00\x00$\x04\x00')
+[06/May/2020 18:15:00] "0   -c   $ " 400 -
+[06/May/2020 18:15:01] code 400, message Bad HTTP/0.9 request type ('0')
+[06/May/2020 18:15:01] "0`  " 400 -
+[2020-05-06 18:15:01,868] - Broken pipe from ('134.122.111.144', 36654)
+
+[06/May/2020 18:15:02] code 400, message Bad request version ('SIP/2.0')
+[06/May/2020 18:15:02] "OPTIONS sip:nm SIP/2.0" 400 -
+[06/May/2020 18:15:04] code 400, message Bad request syntax ('TNMP\x04\x00\x00\x00TNME\x00\x00\x04\x00')
+[06/May/2020 18:15:04] "TNMP   TNME   " 400 -
+[2020-05-06 18:15:04,002] - Broken pipe from ('134.122.111.144', 38250)
+
+[06/May/2020 18:15:05] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00')
+[06/May/2020 18:15:05] "  à     " 400 -
+[2020-05-06 18:15:05,696] - Broken pipe from ('134.122.111.144', 39430)
+
+[06/May/2020 18:15:07] code 400, message Bad request syntax ('DmdT\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x11\x11\x00ÿ\x01ÿ\x13')
+[06/May/2020 18:15:07] "DmdT           ÿÿ" 400 -
+[2020-05-06 18:15:07,393] - Broken pipe from ('134.122.111.144', 40760)
+
+[06/May/2020 18:15:09] code 400, message Bad HTTP/0.9 request type (':\x00\x00\x00/\x00\x00\x00\x02\x00\x00@\x02\x0f\x00\x01\x00=\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x00\x00@')
+[06/May/2020 18:15:09] ":   /     @  =            /         @                 " 400 -
+[2020-05-06 18:15:09,066] - Broken pipe from ('134.122.111.144', 41982)
+
+[06/May/2020 18:15:10] code 400, message Bad request syntax ('JRMI\x00\x02K')
+[06/May/2020 18:15:10] "JRMI K" 400 -
+[2020-05-06 18:15:10,762] - Broken pipe from ('134.122.111.144', 43118)
+
+[06/May/2020 18:15:12] code 400, message Bad request syntax ('\x01\x00\x00ýÎú\x0b°\xa0\x00\x00\x00MMS\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x01\x00\x03\x00ðððð\x0b\x00\x04\x00\x1c\x00\x03\x00N\x00S\x00P\x00l\x00a\x00y\x00e\x00r\x00/\x009\x00.\x00\x00.\x00\x00.\x02\x009\x008\x00\x00;\x00 \x00{\x00\x00\x00\x00\x00A\x00A\x00\x00\x00-\x00\x00A\x00\x00\x00-\x00\x00\x00a\x00\x00-\x00A\x00A\x00\x00A\x00-\x00\x00\x00\x00\x00A\x00\x00A\x00A\x00\x00A\x00A\x00\x00}\x00\x00\x00àmß_')
+[06/May/2020 18:15:12] "  ýÎú°    MMS                    ðððð    N S P l a y e r / 9 .  .  . 9 8  ;   {     A A   -  A   -   a  - A A  A -     A  A A  A A  }   àmß_" 400 -
+[2020-05-06 18:15:12,438] - Broken pipe from ('134.122.111.144', 44328)
+
+[06/May/2020 18:15:14] code 400, message Bad HTTP/0.9 request type ('\x00Z\x00\x00\x01\x00\x00\x00\x016\x01,\x00\x00\x08\x00\x7fÿ\x7f\x08\x00\x00\x00\x01\x00')
+[06/May/2020 18:15:14] " Z     6,   ÿ      :               æ           (CONNECT_DATA=(COMMAND=version))" 400 -
+[2020-05-06 18:15:14,113] - Broken pipe from ('134.122.111.144', 45550)
+
+[06/May/2020 18:15:15] code 400, message Bad request version ('\x03\x00(\x00\x04ÿ\x08\x00\x01U\x00\x00\x00MSSQLServer\x00H\x0f\x00\x00')
+[06/May/2020 18:15:15] " 4            ( ÿ U   MSSQLServer H  " 400 -
+[2020-05-06 18:15:15,806] - Broken pipe from ('134.122.111.144', 46704)
+
+[06/May/2020 18:15:17] code 400, message Bad request syntax ('\x00\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x0f\x00')
+[06/May/2020 18:15:17] "              " 400 -
+[2020-05-06 18:15:17,480] - Broken pipe from ('134.122.111.144', 47880)
+
+[06/May/2020 18:15:19] code 400, message Bad request syntax ('GIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00')
+[06/May/2020 18:15:19] "GIOP  $                abcdef     get     " 400 -
+[2020-05-06 18:15:19,158] - Broken pipe from ('134.122.111.144', 49044)
+
+[06/May/2020 18:15:20] code 400, message Bad request syntax ('\x00\x9c\x00\x01\x1a+<M\x00\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01ÿÿ\x00\x01none\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00beio\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[06/May/2020 18:15:20] "  +<M            ÿÿ none                                                            beio                                                            " 400 -
+[2020-05-06 18:15:20,855] - Broken pipe from ('134.122.111.144', 50202)
+
+[06/May/2020 18:15:22] code 400, message Bad request syntax ('\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x04\x00\x00\x00\x08\x00\x00\x00\x01\x00\x00\x00\x00')
+[06/May/2020 18:15:22] "                   " 400 -
+[2020-05-06 18:15:22,527] - Broken pipe from ('134.122.111.144', 51348)
+
+[06/May/2020 18:15:24] code 400, message Bad request syntax ('\x03\x81\x00\x00\x00\x00\x00_@\x00\x017\x00\x00\x00\x00\x00\x00\x00\x01\x00\x01\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00InitiatorName=iqn.1991-05.com.microsoft:beio-iscsi-probe\x00SessionType=Discovery\x00AuthMethod=None\x00\x00')
+[06/May/2020 18:15:24] "     _@ 7                                InitiatorName=iqn.1991-05.com.microsoft:beio-iscsi-probe SessionType=Discovery AuthMethod=None  " 400 -
+[2020-05-06 18:15:24,220] - Broken pipe from ('134.122.111.144', 52426)
+
+[06/May/2020 18:15:25] code 400, message Bad request syntax ('\x01\x00\x00\x00\x00Í\x00\x01\x00\x00ANY-SCP\x00\x00\x00\x00\x00\x00\x00\x00\x00FINDSCU\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x151.2.840.10008.3.1.1.1 \x00\x00.\x01\x00\x00\x000\x00\x00\x111.2.840.10008.1.1@\x00\x00\x111.2.840.10008.1.2P\x00\x00:Q\x00\x00\x04\x00\x00@\x00R\x00\x00\x1e1.2.826.0.1.3680043.2.1396.999U\x00\x00\x0cCharruaVista')
+[06/May/2020 18:15:25] "    Í   ANY-SCP         FINDSCU                                           1.2.840.10008.3.1.1.1   .   0  1.2.840.10008.1.1@  1.2.840.10008.1.2P  :Q    @ R  1.2.826.0.1.3680043.2.1396.999U  CharruaVista" 400 -
+[2020-05-06 18:15:25,917] - Broken pipe from ('134.122.111.144', 53570)
+
+[06/May/2020 18:15:26] code 400, message Bad HTTP/0.9 request type ("\x03\x00\x00,'à\x00\x00\x00\x00\x00Cookie:")
+[06/May/2020 18:15:26] "  ,'à     Cookie: mstshash=Administrator" 400 -
+[06/May/2020 18:15:28] code 400, message Bad request syntax ('\x00\x00\x00\x00\x00')
+[06/May/2020 18:15:28] "     " 400 -
+[2020-05-06 18:15:28,009] - Broken pipe from ('134.122.111.144', 54966)
+
+[06/May/2020 18:15:28] code 400, message Bad request syntax ('\x01I20100')
+[06/May/2020 18:15:28] "I20100" 400 -
+[06/May/2020 19:13:24] "GET / HTTP/1.1" 200 27219
+[06/May/2020 19:59:11] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[06/May/2020 19:59:11] "  /*à     Cookie: mstshash=Administr" 400 -
+Invalid HTTP_HOST header: 'ip.ws.126.net:443'. You may need to add 'ip.ws.126.net' to ALLOWED_HOSTS.
+[06/May/2020 20:08:05] "CONNECT ip.ws.126.net:443 HTTP/1.1" 400 59707
+[06/May/2020 23:01:27] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[06/May/2020 23:01:27] "  /*à     Cookie: mstshash=Administr" 400 -
+[07/May/2020 01:55:38] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[07/May/2020 01:55:38] "  /*à     Cookie: mstshash=Administr" 400 -
+Invalid HTTP_HOST header: 'ip.ws.126.net:443'. You may need to add 'ip.ws.126.net' to ALLOWED_HOSTS.
+[07/May/2020 03:26:24] "CONNECT ip.ws.126.net:443 HTTP/1.1" 400 59707
+[07/May/2020 10:48:47] "GET /index/ HTTP/1.1" 200 27219
+Not Found: /favicon.ico
+[07/May/2020 10:49:38] "GET /favicon.ico HTTP/1.1" 404 2794
+[07/May/2020 10:59:21] "GET /index/ HTTP/1.1" 200 27219
+Not Found: /favicon.ico
+[07/May/2020 11:00:11] "GET /favicon.ico HTTP/1.1" 404 2794
+[07/May/2020 12:28:14] "GET /index/ HTTP/1.1" 200 27219
+Not Found: /favicon.ico
+[07/May/2020 12:29:05] "GET /favicon.ico HTTP/1.1" 404 2794
+[07/May/2020 12:45:29] "GET / HTTP/1.1" 200 27219
+[07/May/2020 12:46:26] "GET / HTTP/1.1" 200 27219
+[07/May/2020 16:26:20] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[07/May/2020 16:26:20] "  /*à     Cookie: mstshash=Administr" 400 -
+[07/May/2020 16:49:02] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[07/May/2020 16:49:02] "  /*à     Cookie: mstshash=Administr" 400 -
+[07/May/2020 17:28:40] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[07/May/2020 17:28:40] "  /*à     Cookie: mstshash=Administr" 400 -
+[07/May/2020 18:16:19] "GET / HTTP/1.1" 200 27219
+[07/May/2020 20:26:02] "GET / HTTP/1.1" 200 27219
+[07/May/2020 20:49:25] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[07/May/2020 20:49:25] "  /*à     Cookie: mstshash=Administr" 400 -
+[07/May/2020 21:29:05] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[07/May/2020 21:29:05] "  /*à     Cookie: mstshash=Administr" 400 -
+[08/May/2020 07:32:01] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[08/May/2020 07:32:01] "  /*à     Cookie: mstshash=Administr" 400 -
+[08/May/2020 07:43:07] "GET / HTTP/1.1" 200 27219
+[08/May/2020 09:18:00] "GET / HTTP/1.1" 200 27219
+[08/May/2020 13:55:58] "GET / HTTP/1.1" 200 27219
+[08/May/2020 13:55:58] "GET /static/fonts/icomoon/style.css HTTP/1.1" 200 79820
+[08/May/2020 13:55:58] "GET /static/css/owl.carousel.min.css HTTP/1.1" 200 2936
+[08/May/2020 13:55:58] "GET /static/css/jquery-ui.css HTTP/1.1" 200 21738
+[08/May/2020 13:55:58] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 177055
+[08/May/2020 13:55:58] "GET /static/css/jquery.fancybox.min.css HTTP/1.1" 200 12795
+[08/May/2020 13:55:58] "GET /static/css/bootstrap-datepicker.css HTTP/1.1" 200 17144
+[08/May/2020 13:55:58] "GET /static/css/aos.css HTTP/1.1" 200 25983
+[08/May/2020 13:55:58] "GET /static/css/style.css HTTP/1.1" 200 36305
+[08/May/2020 13:55:58] "GET /static/css/owl.theme.default.min.css HTTP/1.1" 304 0
+[08/May/2020 13:55:58] "GET /static/fonts/flaticon/font/flaticon.css HTTP/1.1" 304 0
+[08/May/2020 13:55:58] "GET /static/js/jquery-ui.js HTTP/1.1" 200 45799
+[08/May/2020 13:55:58] "GET /static/js/jquery-3.3.1.min.js HTTP/1.1" 200 86926
+[08/May/2020 13:55:58] "GET /static/js/popper.min.js HTTP/1.1" 200 20336
+[08/May/2020 13:55:58] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 58072
+[08/May/2020 13:55:58] "GET /static/js/owl.carousel.min.js HTTP/1.1" 200 42766
+[08/May/2020 13:55:58] "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 200 8111
+[08/May/2020 13:55:58] "GET /static/js/aos.js HTTP/1.1" 200 14244
+[08/May/2020 13:55:58] "GET /static/images/logo.png HTTP/1.1" 200 5522
+[08/May/2020 13:55:58] "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 200 9029
+[08/May/2020 13:55:58] "GET /static/js/jquery.fancybox.min.js HTTP/1.1" 200 68196
+[08/May/2020 13:55:58] "GET /static/js/jquery.animateNumber.min.js HTTP/1.1" 200 1391
+[08/May/2020 13:55:58] "GET /static/js/jquery.sticky.js HTTP/1.1" 200 10084
+[08/May/2020 13:55:58] "GET /static/js/main.js HTTP/1.1" 200 8603
+[08/May/2020 13:55:58] "GET /static/fonts/icomoon/fonts/icomoon.ttf?10si43 HTTP/1.1" 200 307168
+[08/May/2020 13:55:59] "GET /static/images/img_5.jpg HTTP/1.1" 200 32781
+[08/May/2020 13:55:59] "GET /static/images/img_7.jpg HTTP/1.1" 200 99392
+[08/May/2020 13:55:59] "GET /static/images/img_8.jpg HTTP/1.1" 200 231834
+[08/May/2020 13:55:59] "GET /static/images/img_6.jpg HTTP/1.1" 200 481844
+[08/May/2020 13:55:59] "GET /static/images/person_2.jpg HTTP/1.1" 200 285512
+[08/May/2020 13:55:59] "GET /static/images/person_3.jpg HTTP/1.1" 200 228890
+[08/May/2020 13:56:14] "GET /static/images/person_4.jpg HTTP/1.1" 200 375097
